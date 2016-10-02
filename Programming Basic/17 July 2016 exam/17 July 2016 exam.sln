@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Money", "01. Money\01. Money.csproj", "{97A17E91-9553-47CC-BAEC-867362032840}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Harvest", "02. Harvest\02. Harvest.csproj", "{FB2D9267-EB3D-4F61-BA32-706E52B9C955}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97A17E91-9553-47CC-BAEC-867362032840}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97A17E91-9553-47CC-BAEC-867362032840}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97A17E91-9553-47CC-BAEC-867362032840}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97A17E91-9553-47CC-BAEC-867362032840}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB2D9267-EB3D-4F61-BA32-706E52B9C955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB2D9267-EB3D-4F61-BA32-706E52B9C955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB2D9267-EB3D-4F61-BA32-706E52B9C955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB2D9267-EB3D-4F61-BA32-706E52B9C955}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

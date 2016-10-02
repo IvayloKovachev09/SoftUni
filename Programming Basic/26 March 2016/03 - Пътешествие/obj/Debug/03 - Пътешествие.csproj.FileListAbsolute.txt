@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\26 March 2016\03 - Пътешествие\bin\Debug\03 - Пътешествие.exe.config
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\26 March 2016\03 - Пътешествие\bin\Debug\03 - Пътешествие.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\26 March 2016\03 - Пътешествие\bin\Debug\03 - Пътешествие.pdb
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\26 March 2016\03 - Пътешествие\obj\Debug\03 - Пътешествие.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\26 March 2016\03 - Пътешествие\obj\Debug\03 - Пътешествие.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\26 March 2016\03 - Пътешествие\obj\Debug\03 - Пътешествие.pdb

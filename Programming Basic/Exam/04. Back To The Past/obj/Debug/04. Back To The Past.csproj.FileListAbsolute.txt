@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\Exam\04. Back To The Past\bin\Debug\_04.Back_To_The_Past.exe.config
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\Exam\04. Back To The Past\bin\Debug\_04.Back_To_The_Past.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\Exam\04. Back To The Past\bin\Debug\_04.Back_To_The_Past.pdb
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\Exam\04. Back To The Past\obj\Debug\04. Back To The Past.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\Exam\04. Back To The Past\obj\Debug\_04.Back_To_The_Past.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\Exam\04. Back To The Past\obj\Debug\_04.Back_To_The_Past.pdb

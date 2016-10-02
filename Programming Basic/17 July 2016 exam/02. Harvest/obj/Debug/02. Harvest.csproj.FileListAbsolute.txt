@@ -1,0 +1,5 @@
+c:\users\ivaylo\documents\visual studio 2015\Projects\17 July 2016 exam\02. Harvest\bin\Debug\_02.Harvest.exe.config
+c:\users\ivaylo\documents\visual studio 2015\Projects\17 July 2016 exam\02. Harvest\bin\Debug\_02.Harvest.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\17 July 2016 exam\02. Harvest\bin\Debug\_02.Harvest.pdb
+c:\users\ivaylo\documents\visual studio 2015\Projects\17 July 2016 exam\02. Harvest\obj\Debug\_02.Harvest.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\17 July 2016 exam\02. Harvest\obj\Debug\_02.Harvest.pdb

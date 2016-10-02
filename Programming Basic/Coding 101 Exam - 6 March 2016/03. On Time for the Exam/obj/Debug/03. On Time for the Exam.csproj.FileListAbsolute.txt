@@ -1,0 +1,6 @@
+c:\users\ivaylo\documents\visual studio 2015\Projects\Coding 101 Exam - 6 March 2016\03. On Time for the Exam\bin\Debug\_03.On_Time_for_the_Exam.exe.config
+c:\users\ivaylo\documents\visual studio 2015\Projects\Coding 101 Exam - 6 March 2016\03. On Time for the Exam\bin\Debug\_03.On_Time_for_the_Exam.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\Coding 101 Exam - 6 March 2016\03. On Time for the Exam\bin\Debug\_03.On_Time_for_the_Exam.pdb
+c:\users\ivaylo\documents\visual studio 2015\Projects\Coding 101 Exam - 6 March 2016\03. On Time for the Exam\obj\Debug\03. On Time for the Exam.csprojResolveAssemblyReference.cache
+c:\users\ivaylo\documents\visual studio 2015\Projects\Coding 101 Exam - 6 March 2016\03. On Time for the Exam\obj\Debug\_03.On_Time_for_the_Exam.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\Coding 101 Exam - 6 March 2016\03. On Time for the Exam\obj\Debug\_03.On_Time_for_the_Exam.pdb

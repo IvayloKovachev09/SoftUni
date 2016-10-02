@@ -1,0 +1,5 @@
+c:\Users\Ivaylo\documents\visual studio 2015\Projects\examp\Задача 2 - Фирма\bin\Debug\Задача 2 - Фирма.exe.config
+c:\Users\Ivaylo\documents\visual studio 2015\Projects\examp\Задача 2 - Фирма\bin\Debug\Задача 2 - Фирма.exe
+c:\Users\Ivaylo\documents\visual studio 2015\Projects\examp\Задача 2 - Фирма\bin\Debug\Задача 2 - Фирма.pdb
+c:\Users\Ivaylo\documents\visual studio 2015\Projects\examp\Задача 2 - Фирма\obj\Debug\Задача 2 - Фирма.exe
+c:\Users\Ivaylo\documents\visual studio 2015\Projects\examp\Задача 2 - Фирма\obj\Debug\Задача 2 - Фирма.pdb

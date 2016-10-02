@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\26 March 2016\Задача 04 - Деление без остатък\bin\Debug\Задача 04 - Деление без остатък.exe.config
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\26 March 2016\Задача 04 - Деление без остатък\bin\Debug\Задача 04 - Деление без остатък.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\26 March 2016\Задача 04 - Деление без остатък\bin\Debug\Задача 04 - Деление без остатък.pdb
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\26 March 2016\Задача 04 - Деление без остатък\obj\Debug\Задача 04 - Деление без остатък.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\26 March 2016\Задача 04 - Деление без остатък\obj\Debug\Задача 04 - Деление без остатък.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\26 March 2016\Задача 04 - Деление без остатък\obj\Debug\Задача 04 - Деление без остатък.pdb

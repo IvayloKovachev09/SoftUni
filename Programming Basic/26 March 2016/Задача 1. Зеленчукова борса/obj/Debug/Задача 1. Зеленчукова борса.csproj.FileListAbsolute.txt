@@ -1,0 +1,6 @@
+c:\users\ivaylo\documents\visual studio 2015\Projects\26 March 2016\Задача 1. Зеленчукова борса\bin\Debug\Задача_1.Зеленчукова_борса.exe.config
+c:\users\ivaylo\documents\visual studio 2015\Projects\26 March 2016\Задача 1. Зеленчукова борса\bin\Debug\Задача_1.Зеленчукова_борса.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\26 March 2016\Задача 1. Зеленчукова борса\bin\Debug\Задача_1.Зеленчукова_борса.pdb
+c:\users\ivaylo\documents\visual studio 2015\Projects\26 March 2016\Задача 1. Зеленчукова борса\obj\Debug\Задача 1. Зеленчукова борса.csprojResolveAssemblyReference.cache
+c:\users\ivaylo\documents\visual studio 2015\Projects\26 March 2016\Задача 1. Зеленчукова борса\obj\Debug\Задача_1.Зеленчукова_борса.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\26 March 2016\Задача 1. Зеленчукова борса\obj\Debug\Задача_1.Зеленчукова_борса.pdb

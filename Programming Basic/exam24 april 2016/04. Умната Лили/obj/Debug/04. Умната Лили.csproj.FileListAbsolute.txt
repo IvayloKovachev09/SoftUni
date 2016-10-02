@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\exam24 april 2016\04. Умната Лили\bin\Debug\_04.Умната_Лили.exe.config
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\exam24 april 2016\04. Умната Лили\bin\Debug\_04.Умната_Лили.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\exam24 april 2016\04. Умната Лили\bin\Debug\_04.Умната_Лили.pdb
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\exam24 april 2016\04. Умната Лили\obj\Debug\04. Умната Лили.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\exam24 april 2016\04. Умната Лили\obj\Debug\_04.Умната_Лили.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\exam24 april 2016\04. Умната Лили\obj\Debug\_04.Умната_Лили.pdb

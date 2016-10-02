@@ -1,0 +1,6 @@
+c:\users\ivaylo\documents\visual studio 2015\Projects\examp\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\ivaylo\documents\visual studio 2015\Projects\examp\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\examp\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\ivaylo\documents\visual studio 2015\Projects\examp\ConsoleApplication1\obj\Debug\Задача 01 - Дневна печалба.csprojResolveAssemblyReference.cache
+c:\users\ivaylo\documents\visual studio 2015\Projects\examp\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\examp\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

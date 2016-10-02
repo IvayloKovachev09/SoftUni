@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\exam24 april 2016\2. Поспаливата котка Том\bin\Debug\_2.Поспаливата_котка_Том.exe.config
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\exam24 april 2016\2. Поспаливата котка Том\bin\Debug\_2.Поспаливата_котка_Том.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\exam24 april 2016\2. Поспаливата котка Том\bin\Debug\_2.Поспаливата_котка_Том.pdb
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\exam24 april 2016\2. Поспаливата котка Том\obj\Debug\2. Поспаливата котка Том.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\exam24 april 2016\2. Поспаливата котка Том\obj\Debug\_2.Поспаливата_котка_Том.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\exam24 april 2016\2. Поспаливата котка Том\obj\Debug\_2.Поспаливата_котка_Том.pdb

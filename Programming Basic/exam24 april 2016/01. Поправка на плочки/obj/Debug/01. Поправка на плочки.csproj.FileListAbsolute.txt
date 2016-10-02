@@ -1,0 +1,6 @@
+c:\users\ivaylo\documents\visual studio 2015\Projects\exam24 april 2016\01. Поправка на плочки\bin\Debug\_01.Поправка_на_плочки.exe.config
+c:\users\ivaylo\documents\visual studio 2015\Projects\exam24 april 2016\01. Поправка на плочки\bin\Debug\_01.Поправка_на_плочки.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\exam24 april 2016\01. Поправка на плочки\bin\Debug\_01.Поправка_на_плочки.pdb
+c:\users\ivaylo\documents\visual studio 2015\Projects\exam24 april 2016\01. Поправка на плочки\obj\Debug\01. Поправка на плочки.csprojResolveAssemblyReference.cache
+c:\users\ivaylo\documents\visual studio 2015\Projects\exam24 april 2016\01. Поправка на плочки\obj\Debug\_01.Поправка_на_плочки.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\exam24 april 2016\01. Поправка на плочки\obj\Debug\_01.Поправка_на_плочки.pdb

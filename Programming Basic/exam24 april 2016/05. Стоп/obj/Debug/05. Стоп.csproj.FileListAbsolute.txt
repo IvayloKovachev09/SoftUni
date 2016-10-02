@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\exam24 april 2016\05. Стоп\bin\Debug\_05.Стоп.exe.config
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\exam24 april 2016\05. Стоп\bin\Debug\_05.Стоп.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\exam24 april 2016\05. Стоп\bin\Debug\_05.Стоп.pdb
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\exam24 april 2016\05. Стоп\obj\Debug\05. Стоп.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\exam24 april 2016\05. Стоп\obj\Debug\_05.Стоп.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\exam24 april 2016\05. Стоп\obj\Debug\_05.Стоп.pdb

@@ -1,0 +1,6 @@
+c:\users\ivaylo\documents\visual studio 2015\Projects\Exam\06. Stop Number\bin\Debug\_06.Stop_Number.exe.config
+c:\users\ivaylo\documents\visual studio 2015\Projects\Exam\06. Stop Number\bin\Debug\_06.Stop_Number.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\Exam\06. Stop Number\bin\Debug\_06.Stop_Number.pdb
+c:\users\ivaylo\documents\visual studio 2015\Projects\Exam\06. Stop Number\obj\Debug\06. Stop Number.csprojResolveAssemblyReference.cache
+c:\users\ivaylo\documents\visual studio 2015\Projects\Exam\06. Stop Number\obj\Debug\_06.Stop_Number.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\Exam\06. Stop Number\obj\Debug\_06.Stop_Number.pdb

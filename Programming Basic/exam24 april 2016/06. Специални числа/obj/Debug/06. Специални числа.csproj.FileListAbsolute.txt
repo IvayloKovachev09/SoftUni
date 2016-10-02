@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\exam24 april 2016\06. Специални числа\bin\Debug\_06.Специални_числа.exe.config
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\exam24 april 2016\06. Специални числа\bin\Debug\_06.Специални_числа.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\exam24 april 2016\06. Специални числа\bin\Debug\_06.Специални_числа.pdb
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\exam24 april 2016\06. Специални числа\obj\Debug\06. Специални числа.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\exam24 april 2016\06. Специални числа\obj\Debug\_06.Специални_числа.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\exam24 april 2016\06. Специални числа\obj\Debug\_06.Специални_числа.pdb

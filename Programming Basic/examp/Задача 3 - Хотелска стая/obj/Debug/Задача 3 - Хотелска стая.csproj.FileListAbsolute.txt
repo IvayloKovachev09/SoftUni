@@ -1,0 +1,6 @@
+c:\Users\Ivaylo\documents\visual studio 2015\Projects\examp\Задача 3 - Хотелска стая\bin\Debug\Задача 3 - Хотелска стая.exe.config
+c:\Users\Ivaylo\documents\visual studio 2015\Projects\examp\Задача 3 - Хотелска стая\bin\Debug\Задача 3 - Хотелска стая.exe
+c:\Users\Ivaylo\documents\visual studio 2015\Projects\examp\Задача 3 - Хотелска стая\bin\Debug\Задача 3 - Хотелска стая.pdb
+c:\Users\Ivaylo\documents\visual studio 2015\Projects\examp\Задача 3 - Хотелска стая\obj\Debug\Задача 3 - Хотелска стая.csprojResolveAssemblyReference.cache
+c:\Users\Ivaylo\documents\visual studio 2015\Projects\examp\Задача 3 - Хотелска стая\obj\Debug\Задача 3 - Хотелска стая.exe
+c:\Users\Ivaylo\documents\visual studio 2015\Projects\examp\Задача 3 - Хотелска стая\obj\Debug\Задача 3 - Хотелска стая.pdb

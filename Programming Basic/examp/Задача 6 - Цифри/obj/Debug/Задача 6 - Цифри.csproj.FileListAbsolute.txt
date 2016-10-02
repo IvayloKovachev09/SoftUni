@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\examp\Задача 6 - Цифри\bin\Debug\Задача 6 - Цифри.exe.config
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\examp\Задача 6 - Цифри\bin\Debug\Задача 6 - Цифри.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\examp\Задача 6 - Цифри\bin\Debug\Задача 6 - Цифри.pdb
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\examp\Задача 6 - Цифри\obj\Debug\Задача 6 - Цифри.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\examp\Задача 6 - Цифри\obj\Debug\Задача 6 - Цифри.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\examp\Задача 6 - Цифри\obj\Debug\Задача 6 - Цифри.pdb

@@ -1,0 +1,6 @@
+c:\Users\Ivaylo\documents\visual studio 2015\Projects\examp\Задача 4 - Болница\bin\Debug\Задача 4 - Болница.exe.config
+c:\Users\Ivaylo\documents\visual studio 2015\Projects\examp\Задача 4 - Болница\bin\Debug\Задача 4 - Болница.exe
+c:\Users\Ivaylo\documents\visual studio 2015\Projects\examp\Задача 4 - Болница\bin\Debug\Задача 4 - Болница.pdb
+c:\Users\Ivaylo\documents\visual studio 2015\Projects\examp\Задача 4 - Болница\obj\Debug\Задача 4 - Болница.csprojResolveAssemblyReference.cache
+c:\Users\Ivaylo\documents\visual studio 2015\Projects\examp\Задача 4 - Болница\obj\Debug\Задача 4 - Болница.exe
+c:\Users\Ivaylo\documents\visual studio 2015\Projects\examp\Задача 4 - Болница\obj\Debug\Задача 4 - Болница.pdb

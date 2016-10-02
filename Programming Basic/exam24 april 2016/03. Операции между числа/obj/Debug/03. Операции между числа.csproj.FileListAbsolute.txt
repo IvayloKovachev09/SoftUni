@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\exam24 april 2016\03. Операции между числа\bin\Debug\_03.Операции_между_числа.exe.config
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\exam24 april 2016\03. Операции между числа\bin\Debug\_03.Операции_между_числа.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\exam24 april 2016\03. Операции между числа\bin\Debug\_03.Операции_между_числа.pdb
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\exam24 april 2016\03. Операции между числа\obj\Debug\03. Операции между числа.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\exam24 april 2016\03. Операции между числа\obj\Debug\_03.Операции_между_числа.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\exam24 april 2016\03. Операции между числа\obj\Debug\_03.Операции_между_числа.pdb

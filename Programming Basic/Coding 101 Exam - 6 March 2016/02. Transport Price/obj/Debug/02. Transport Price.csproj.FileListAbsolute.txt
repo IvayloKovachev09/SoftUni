@@ -1,0 +1,5 @@
+c:\users\ivaylo\documents\visual studio 2015\Projects\Coding 101 Exam - 6 March 2016\02. Transport Price\bin\Debug\_02.Transport_Price.exe.config
+c:\users\ivaylo\documents\visual studio 2015\Projects\Coding 101 Exam - 6 March 2016\02. Transport Price\bin\Debug\_02.Transport_Price.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\Coding 101 Exam - 6 March 2016\02. Transport Price\bin\Debug\_02.Transport_Price.pdb
+c:\users\ivaylo\documents\visual studio 2015\Projects\Coding 101 Exam - 6 March 2016\02. Transport Price\obj\Debug\_02.Transport_Price.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\Coding 101 Exam - 6 March 2016\02. Transport Price\obj\Debug\_02.Transport_Price.pdb

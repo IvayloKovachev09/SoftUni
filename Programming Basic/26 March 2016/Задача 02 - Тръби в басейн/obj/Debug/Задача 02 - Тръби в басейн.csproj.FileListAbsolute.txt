@@ -1,0 +1,6 @@
+c:\users\ivaylo\documents\visual studio 2015\Projects\26 March 2016\Задача 02 - Тръби в басейн\bin\Debug\Задача 02 - Тръби в басейн.exe.config
+c:\users\ivaylo\documents\visual studio 2015\Projects\26 March 2016\Задача 02 - Тръби в басейн\obj\Debug\Задача 02 - Тръби в басейн.csprojResolveAssemblyReference.cache
+c:\users\ivaylo\documents\visual studio 2015\Projects\26 March 2016\Задача 02 - Тръби в басейн\bin\Debug\Задача 02 - Тръби в басейн.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\26 March 2016\Задача 02 - Тръби в басейн\bin\Debug\Задача 02 - Тръби в басейн.pdb
+c:\users\ivaylo\documents\visual studio 2015\Projects\26 March 2016\Задача 02 - Тръби в басейн\obj\Debug\Задача 02 - Тръби в басейн.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\26 March 2016\Задача 02 - Тръби в басейн\obj\Debug\Задача 02 - Тръби в басейн.pdb
