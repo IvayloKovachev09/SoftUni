@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Hello, Name!", "Methods and Debugging- Exercises\01. Hello, Name!.csproj", "{2A801218-4848-4D12-96FC-0C1FE8578A96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Max Method", "02. Max Method\02. Max Method.csproj", "{122DCDCE-6A62-47D1-A389-7E660D380A3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. English Name of Last Digit", "03. English Name of Last Digit\03. English Name of Last Digit.csproj", "{D40A03DC-D51A-498E-8D96-E48A1500572B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Numbers in Reversed Order", "04. Numbers in Reversed Order\04. Numbers in Reversed Order.csproj", "{9168D54E-B4D8-443F-87CC-7E521B39C097}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Fibonacci Numbers", "06. Prime Checker\05. Fibonacci Numbers.csproj", "{40224443-6D73-426E-9C69-3D16E6396D88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Prime Checker", "06.Prime Checker\06.Prime Checker.csproj", "{B0AD1961-8BE9-4C1C-AB94-1B0D417C27DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A801218-4848-4D12-96FC-0C1FE8578A96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A801218-4848-4D12-96FC-0C1FE8578A96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A801218-4848-4D12-96FC-0C1FE8578A96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A801218-4848-4D12-96FC-0C1FE8578A96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{122DCDCE-6A62-47D1-A389-7E660D380A3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{122DCDCE-6A62-47D1-A389-7E660D380A3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{122DCDCE-6A62-47D1-A389-7E660D380A3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{122DCDCE-6A62-47D1-A389-7E660D380A3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D40A03DC-D51A-498E-8D96-E48A1500572B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D40A03DC-D51A-498E-8D96-E48A1500572B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D40A03DC-D51A-498E-8D96-E48A1500572B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D40A03DC-D51A-498E-8D96-E48A1500572B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9168D54E-B4D8-443F-87CC-7E521B39C097}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9168D54E-B4D8-443F-87CC-7E521B39C097}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9168D54E-B4D8-443F-87CC-7E521B39C097}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9168D54E-B4D8-443F-87CC-7E521B39C097}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40224443-6D73-426E-9C69-3D16E6396D88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40224443-6D73-426E-9C69-3D16E6396D88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40224443-6D73-426E-9C69-3D16E6396D88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40224443-6D73-426E-9C69-3D16E6396D88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0AD1961-8BE9-4C1C-AB94-1B0D417C27DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0AD1961-8BE9-4C1C-AB94-1B0D417C27DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0AD1961-8BE9-4C1C-AB94-1B0D417C27DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0AD1961-8BE9-4C1C-AB94-1B0D417C27DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

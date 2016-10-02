@@ -1,0 +1,6 @@
+c:\users\ivaylo\documents\visual studio 2015\Projects\Methods and Debugging- Exercises\04. Numbers in Reversed Order\bin\Debug\_04.Numbers_in_Reversed_Order.exe.config
+c:\users\ivaylo\documents\visual studio 2015\Projects\Methods and Debugging- Exercises\04. Numbers in Reversed Order\bin\Debug\_04.Numbers_in_Reversed_Order.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\Methods and Debugging- Exercises\04. Numbers in Reversed Order\bin\Debug\_04.Numbers_in_Reversed_Order.pdb
+c:\users\ivaylo\documents\visual studio 2015\Projects\Methods and Debugging- Exercises\04. Numbers in Reversed Order\obj\Debug\04. Numbers in Reversed Order.csprojResolveAssemblyReference.cache
+c:\users\ivaylo\documents\visual studio 2015\Projects\Methods and Debugging- Exercises\04. Numbers in Reversed Order\obj\Debug\_04.Numbers_in_Reversed_Order.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\Methods and Debugging- Exercises\04. Numbers in Reversed Order\obj\Debug\_04.Numbers_in_Reversed_Order.pdb

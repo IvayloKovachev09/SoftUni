@@ -1,0 +1,6 @@
+c:\users\ivaylo\documents\visual studio 2015\Projects\Methods and Debugging- Exercises\06.Prime Checker\bin\Debug\06.Prime Checker.exe.config
+c:\users\ivaylo\documents\visual studio 2015\Projects\Methods and Debugging- Exercises\06.Prime Checker\bin\Debug\06.Prime Checker.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\Methods and Debugging- Exercises\06.Prime Checker\bin\Debug\06.Prime Checker.pdb
+c:\users\ivaylo\documents\visual studio 2015\Projects\Methods and Debugging- Exercises\06.Prime Checker\obj\Debug\06.Prime Checker.csprojResolveAssemblyReference.cache
+c:\users\ivaylo\documents\visual studio 2015\Projects\Methods and Debugging- Exercises\06.Prime Checker\obj\Debug\06.Prime Checker.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\Methods and Debugging- Exercises\06.Prime Checker\obj\Debug\06.Prime Checker.pdb

@@ -1,0 +1,6 @@
+c:\users\ivaylo\documents\visual studio 2015\Projects\Methods and Debugging- Exercises\03. English Name of Last Digit\bin\Debug\_03.English_Name_of_Last_Digit.exe.config
+c:\users\ivaylo\documents\visual studio 2015\Projects\Methods and Debugging- Exercises\03. English Name of Last Digit\bin\Debug\_03.English_Name_of_Last_Digit.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\Methods and Debugging- Exercises\03. English Name of Last Digit\bin\Debug\_03.English_Name_of_Last_Digit.pdb
+c:\users\ivaylo\documents\visual studio 2015\Projects\Methods and Debugging- Exercises\03. English Name of Last Digit\obj\Debug\03. English Name of Last Digit.csprojResolveAssemblyReference.cache
+c:\users\ivaylo\documents\visual studio 2015\Projects\Methods and Debugging- Exercises\03. English Name of Last Digit\obj\Debug\_03.English_Name_of_Last_Digit.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\Methods and Debugging- Exercises\03. English Name of Last Digit\obj\Debug\_03.English_Name_of_Last_Digit.pdb
