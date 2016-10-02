@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basic\Complex Conditional Statements\10.Half Sum Element\bin\Debug\10.Half Sum Element.exe.config
+D:\SoftUni\Programming Basic\Complex Conditional Statements\10.Half Sum Element\obj\Debug\10.Half Sum Element.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basic\Complex Conditional Statements\10.Half Sum Element\bin\Debug\10.Half Sum Element.exe
+D:\SoftUni\Programming Basic\Complex Conditional Statements\10.Half Sum Element\bin\Debug\10.Half Sum Element.pdb
+D:\SoftUni\Programming Basic\Complex Conditional Statements\10.Half Sum Element\obj\Debug\10.Half Sum Element.exe
+D:\SoftUni\Programming Basic\Complex Conditional Statements\10.Half Sum Element\obj\Debug\10.Half Sum Element.pdb

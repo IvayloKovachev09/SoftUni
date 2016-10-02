@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basic\Complex Conditional Statements\03.Latin Letters\bin\Debug\03.Latin Letters.exe.config
+D:\SoftUni\Programming Basic\Complex Conditional Statements\03.Latin Letters\obj\Debug\03.Latin Letters.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basic\Complex Conditional Statements\03.Latin Letters\bin\Debug\03.Latin Letters.exe
+D:\SoftUni\Programming Basic\Complex Conditional Statements\03.Latin Letters\bin\Debug\03.Latin Letters.pdb
+D:\SoftUni\Programming Basic\Complex Conditional Statements\03.Latin Letters\obj\Debug\03.Latin Letters.exe
+D:\SoftUni\Programming Basic\Complex Conditional Statements\03.Latin Letters\obj\Debug\03.Latin Letters.pdb

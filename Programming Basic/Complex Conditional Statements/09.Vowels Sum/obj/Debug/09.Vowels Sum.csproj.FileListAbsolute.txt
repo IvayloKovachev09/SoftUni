@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basic\Complex Conditional Statements\09.Vowels Sum\bin\Debug\09.Vowels Sum.exe.config
+D:\SoftUni\Programming Basic\Complex Conditional Statements\09.Vowels Sum\bin\Debug\09.Vowels Sum.exe
+D:\SoftUni\Programming Basic\Complex Conditional Statements\09.Vowels Sum\bin\Debug\09.Vowels Sum.pdb
+D:\SoftUni\Programming Basic\Complex Conditional Statements\09.Vowels Sum\obj\Debug\09.Vowels Sum.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basic\Complex Conditional Statements\09.Vowels Sum\obj\Debug\09.Vowels Sum.exe
+D:\SoftUni\Programming Basic\Complex Conditional Statements\09.Vowels Sum\obj\Debug\09.Vowels Sum.pdb

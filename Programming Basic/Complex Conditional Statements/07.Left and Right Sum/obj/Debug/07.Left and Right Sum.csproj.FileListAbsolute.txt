@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basic\Complex Conditional Statements\07.Left and Right Sum\bin\Debug\07.Left and Right Sum.exe.config
+D:\SoftUni\Programming Basic\Complex Conditional Statements\07.Left and Right Sum\bin\Debug\07.Left and Right Sum.exe
+D:\SoftUni\Programming Basic\Complex Conditional Statements\07.Left and Right Sum\bin\Debug\07.Left and Right Sum.pdb
+D:\SoftUni\Programming Basic\Complex Conditional Statements\07.Left and Right Sum\obj\Debug\07.Left and Right Sum.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basic\Complex Conditional Statements\07.Left and Right Sum\obj\Debug\07.Left and Right Sum.exe
+D:\SoftUni\Programming Basic\Complex Conditional Statements\07.Left and Right Sum\obj\Debug\07.Left and Right Sum.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basic\Complex Conditional Statements\08.Odd Even Sum\bin\Debug\08.Odd Even Sum.exe.config
+D:\SoftUni\Programming Basic\Complex Conditional Statements\08.Odd Even Sum\bin\Debug\08.Odd Even Sum.exe
+D:\SoftUni\Programming Basic\Complex Conditional Statements\08.Odd Even Sum\bin\Debug\08.Odd Even Sum.pdb
+D:\SoftUni\Programming Basic\Complex Conditional Statements\08.Odd Even Sum\obj\Debug\08.Odd Even Sum.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basic\Complex Conditional Statements\08.Odd Even Sum\obj\Debug\08.Odd Even Sum.exe
+D:\SoftUni\Programming Basic\Complex Conditional Statements\08.Odd Even Sum\obj\Debug\08.Odd Even Sum.pdb

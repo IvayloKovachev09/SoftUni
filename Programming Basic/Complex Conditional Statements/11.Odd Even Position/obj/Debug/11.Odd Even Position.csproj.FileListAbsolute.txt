@@ -1,0 +1,5 @@
+D:\SoftUni\Programming Basic\Complex Conditional Statements\11.Odd Even Position\bin\Debug\11.Odd Even Position.exe.config
+D:\SoftUni\Programming Basic\Complex Conditional Statements\11.Odd Even Position\bin\Debug\11.Odd Even Position.exe
+D:\SoftUni\Programming Basic\Complex Conditional Statements\11.Odd Even Position\bin\Debug\11.Odd Even Position.pdb
+D:\SoftUni\Programming Basic\Complex Conditional Statements\11.Odd Even Position\obj\Debug\11.Odd Even Position.exe
+D:\SoftUni\Programming Basic\Complex Conditional Statements\11.Odd Even Position\obj\Debug\11.Odd Even Position.pdb

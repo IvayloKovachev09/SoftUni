@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basic\Complex Conditional Statements\06.Min Number\bin\Debug\06.Min Number.exe.config
+D:\SoftUni\Programming Basic\Complex Conditional Statements\06.Min Number\bin\Debug\06.Min Number.exe
+D:\SoftUni\Programming Basic\Complex Conditional Statements\06.Min Number\bin\Debug\06.Min Number.pdb
+D:\SoftUni\Programming Basic\Complex Conditional Statements\06.Min Number\obj\Debug\06.Min Number.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basic\Complex Conditional Statements\06.Min Number\obj\Debug\06.Min Number.exe
+D:\SoftUni\Programming Basic\Complex Conditional Statements\06.Min Number\obj\Debug\06.Min Number.pdb

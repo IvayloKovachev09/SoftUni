@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basic\Complex Conditional Statements\12.Equal Pairs\bin\Debug\12.Equal Pairs.exe.config
+D:\SoftUni\Programming Basic\Complex Conditional Statements\12.Equal Pairs\bin\Debug\12.Equal Pairs.exe
+D:\SoftUni\Programming Basic\Complex Conditional Statements\12.Equal Pairs\bin\Debug\12.Equal Pairs.pdb
+D:\SoftUni\Programming Basic\Complex Conditional Statements\12.Equal Pairs\obj\Debug\12.Equal Pairs.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basic\Complex Conditional Statements\12.Equal Pairs\obj\Debug\12.Equal Pairs.exe
+D:\SoftUni\Programming Basic\Complex Conditional Statements\12.Equal Pairs\obj\Debug\12.Equal Pairs.pdb
