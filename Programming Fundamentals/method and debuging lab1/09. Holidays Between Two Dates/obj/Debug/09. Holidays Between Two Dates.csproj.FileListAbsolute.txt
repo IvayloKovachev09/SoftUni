@@ -1,0 +1,5 @@
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\method and debuging lab1\09. Holidays Between Two Dates\bin\Debug\_09.Holidays_Between_Two_Dates.exe.config
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\method and debuging lab1\09. Holidays Between Two Dates\bin\Debug\_09.Holidays_Between_Two_Dates.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\method and debuging lab1\09. Holidays Between Two Dates\bin\Debug\_09.Holidays_Between_Two_Dates.pdb
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\method and debuging lab1\09. Holidays Between Two Dates\obj\Debug\_09.Holidays_Between_Two_Dates.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\method and debuging lab1\09. Holidays Between Two Dates\obj\Debug\_09.Holidays_Between_Two_Dates.pdb

@@ -1,0 +1,1 @@
+c:\users\ivaylo\documents\visual studio 2015\Projects\method and debuging lab1\05. Calculate Triangle Area\bin\Debug\_05.Calculate_Triangle_Area.exe.config

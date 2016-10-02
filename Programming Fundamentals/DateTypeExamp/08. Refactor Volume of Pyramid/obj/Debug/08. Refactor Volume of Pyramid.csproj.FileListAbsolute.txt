@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\DateTypeExamp\08. Refactor Volume of Pyramid\bin\Debug\_08.Refactor_Volume_of_Pyramid.exe.config
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\DateTypeExamp\08. Refactor Volume of Pyramid\bin\Debug\_08.Refactor_Volume_of_Pyramid.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\DateTypeExamp\08. Refactor Volume of Pyramid\bin\Debug\_08.Refactor_Volume_of_Pyramid.pdb
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\DateTypeExamp\08. Refactor Volume of Pyramid\obj\Debug\08. Refactor Volume of Pyramid.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\DateTypeExamp\08. Refactor Volume of Pyramid\obj\Debug\_08.Refactor_Volume_of_Pyramid.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\DateTypeExamp\08. Refactor Volume of Pyramid\obj\Debug\_08.Refactor_Volume_of_Pyramid.pdb

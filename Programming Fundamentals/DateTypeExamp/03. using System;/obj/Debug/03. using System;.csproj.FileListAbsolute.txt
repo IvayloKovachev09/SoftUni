@@ -1,0 +1,5 @@
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\DateTypeExamp\03. using System;\bin\Debug\_03.using_System_.exe.config
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\DateTypeExamp\03. using System;\bin\Debug\_03.using_System_.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\DateTypeExamp\03. using System;\bin\Debug\_03.using_System_.pdb
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\DateTypeExamp\03. using System;\obj\Debug\_03.using_System_.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\DateTypeExamp\03. using System;\obj\Debug\_03.using_System_.pdb

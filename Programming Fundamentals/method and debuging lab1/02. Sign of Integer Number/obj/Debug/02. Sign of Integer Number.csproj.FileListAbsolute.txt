@@ -1,0 +1,5 @@
+c:\users\ivaylo\documents\visual studio 2015\Projects\method and debuging lab1\02. Sign of Integer Number\bin\Debug\_02.Sign_of_Integer_Number.exe.config
+c:\users\ivaylo\documents\visual studio 2015\Projects\method and debuging lab1\02. Sign of Integer Number\bin\Debug\_02.Sign_of_Integer_Number.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\method and debuging lab1\02. Sign of Integer Number\bin\Debug\_02.Sign_of_Integer_Number.pdb
+c:\users\ivaylo\documents\visual studio 2015\Projects\method and debuging lab1\02. Sign of Integer Number\obj\Debug\_02.Sign_of_Integer_Number.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\method and debuging lab1\02. Sign of Integer Number\obj\Debug\_02.Sign_of_Integer_Number.pdb

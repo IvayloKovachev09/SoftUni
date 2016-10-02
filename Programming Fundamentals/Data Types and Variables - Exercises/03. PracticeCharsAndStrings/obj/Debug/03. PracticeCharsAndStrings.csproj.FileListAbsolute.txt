@@ -1,0 +1,1 @@
+c:\users\ivaylo\documents\visual studio 2015\Projects\Data Types and Variables - Exercises\03. PracticeCharsAndStrings\bin\Debug\_03.PracticeCharsAndStrings.exe.config

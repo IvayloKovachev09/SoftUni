@@ -1,0 +1,6 @@
+c:\users\ivaylo\documents\visual studio 2015\Projects\method and debuging lab1\demo1\obj\Debug\reciept.csprojResolveAssemblyReference.cache
+c:\users\ivaylo\documents\visual studio 2015\Projects\method and debuging lab1\demo1\bin\Debug\demo1.exe.config
+c:\users\ivaylo\documents\visual studio 2015\Projects\method and debuging lab1\demo1\bin\Debug\demo1.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\method and debuging lab1\demo1\bin\Debug\demo1.pdb
+c:\users\ivaylo\documents\visual studio 2015\Projects\method and debuging lab1\demo1\obj\Debug\demo1.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\method and debuging lab1\demo1\obj\Debug\demo1.pdb

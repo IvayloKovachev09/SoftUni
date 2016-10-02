@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\Data Types and Variables - Exercises\demo1\bin\Debug\demo1.exe.config
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\Data Types and Variables - Exercises\demo1\bin\Debug\demo1.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\Data Types and Variables - Exercises\demo1\bin\Debug\demo1.pdb
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\Data Types and Variables - Exercises\demo1\obj\Debug\07. Exchange Variable Values.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\Data Types and Variables - Exercises\demo1\obj\Debug\demo1.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\Data Types and Variables - Exercises\demo1\obj\Debug\demo1.pdb

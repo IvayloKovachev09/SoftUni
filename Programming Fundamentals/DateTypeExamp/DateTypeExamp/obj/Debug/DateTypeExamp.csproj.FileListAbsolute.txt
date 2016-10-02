@@ -1,0 +1,6 @@
+c:\users\ivaylo\documents\visual studio 2015\Projects\DateTypeExamp\DateTypeExamp\bin\Debug\DateTypeExamp.exe.config
+c:\users\ivaylo\documents\visual studio 2015\Projects\DateTypeExamp\DateTypeExamp\bin\Debug\DateTypeExamp.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\DateTypeExamp\DateTypeExamp\bin\Debug\DateTypeExamp.pdb
+c:\users\ivaylo\documents\visual studio 2015\Projects\DateTypeExamp\DateTypeExamp\obj\Debug\DateTypeExamp.csprojResolveAssemblyReference.cache
+c:\users\ivaylo\documents\visual studio 2015\Projects\DateTypeExamp\DateTypeExamp\obj\Debug\DateTypeExamp.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\DateTypeExamp\DateTypeExamp\obj\Debug\DateTypeExamp.pdb

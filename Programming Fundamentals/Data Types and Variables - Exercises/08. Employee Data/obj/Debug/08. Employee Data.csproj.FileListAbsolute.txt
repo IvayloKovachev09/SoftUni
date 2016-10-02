@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\Data Types and Variables - Exercises\08. Employee Data\bin\Debug\_08.Employee_Data.exe.config
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\Data Types and Variables - Exercises\08. Employee Data\bin\Debug\_08.Employee_Data.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\Data Types and Variables - Exercises\08. Employee Data\bin\Debug\_08.Employee_Data.pdb
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\Data Types and Variables - Exercises\08. Employee Data\obj\Debug\08. Employee Data.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\Data Types and Variables - Exercises\08. Employee Data\obj\Debug\_08.Employee_Data.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\Data Types and Variables - Exercises\08. Employee Data\obj\Debug\_08.Employee_Data.pdb

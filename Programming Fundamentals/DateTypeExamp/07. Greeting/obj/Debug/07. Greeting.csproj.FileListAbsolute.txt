@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\DateTypeExamp\07. Greeting\bin\Debug\_07.Greeting.exe.config
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\DateTypeExamp\07. Greeting\bin\Debug\_07.Greeting.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\DateTypeExamp\07. Greeting\bin\Debug\_07.Greeting.pdb
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\DateTypeExamp\07. Greeting\obj\Debug\07. Greeting.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\DateTypeExamp\07. Greeting\obj\Debug\_07.Greeting.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2015\Projects\DateTypeExamp\07. Greeting\obj\Debug\_07.Greeting.pdb
