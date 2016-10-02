@@ -4,6 +4,3 @@ c:\users\ivaylo\documents\visual studio 2015\Projects\Advanced-Loops\01.LoopBySt
 c:\users\ivaylo\documents\visual studio 2015\Projects\Advanced-Loops\01.LoopByStep3\obj\Debug\01.LoopByStep3.csprojResolveAssemblyReference.cache
 c:\users\ivaylo\documents\visual studio 2015\Projects\Advanced-Loops\01.LoopByStep3\obj\Debug\01.LoopByStep3.exe
 c:\users\ivaylo\documents\visual studio 2015\Projects\Advanced-Loops\01.LoopByStep3\obj\Debug\01.LoopByStep3.pdb
-D:\SoftUni\Programming Basic\Advanced-Loops\01.LoopByStep3\bin\Debug\01.LoopByStep3.exe.config
-D:\SoftUni\Programming Basic\Advanced-Loops\01.LoopByStep3\obj\Debug\01.LoopByStep3.exe
-D:\SoftUni\Programming Basic\Advanced-Loops\01.LoopByStep3\obj\Debug\01.LoopByStep3.pdb

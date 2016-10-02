@@ -4,9 +4,3 @@ c:\users\ivaylo\documents\visual studio 2015\Projects\Advanced-Loops\09.Sum Digi
 c:\users\ivaylo\documents\visual studio 2015\Projects\Advanced-Loops\09.Sum Digits\obj\Debug\09.Sum Digits.csprojResolveAssemblyReference.cache
 c:\users\ivaylo\documents\visual studio 2015\Projects\Advanced-Loops\09.Sum Digits\obj\Debug\09.Sum Digits.exe
 c:\users\ivaylo\documents\visual studio 2015\Projects\Advanced-Loops\09.Sum Digits\obj\Debug\09.Sum Digits.pdb
-D:\SoftUni\Programming Basic\Advanced-Loops\09.Sum Digits\bin\Debug\09.Sum Digits.exe.config
-D:\SoftUni\Programming Basic\Advanced-Loops\09.Sum Digits\obj\Debug\09.Sum Digits.exe
-D:\SoftUni\Programming Basic\Advanced-Loops\09.Sum Digits\obj\Debug\09.Sum Digits.pdb
-D:\SoftUni\Programming Basic\Advanced-Loops\09.Sum Digits\bin\Debug\09.Sum Digits.exe
-D:\SoftUni\Programming Basic\Advanced-Loops\09.Sum Digits\bin\Debug\09.Sum Digits.pdb
-D:\SoftUni\Programming Basic\Advanced-Loops\09.Sum Digits\obj\Debug\09.Sum Digits.csprojResolveAssemblyReference.cache

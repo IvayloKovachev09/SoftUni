@@ -4,19 +4,14 @@ class Program
 {
     static void Main()
     {
-        int n = 1;
-      
-        while (true)
+        int n = int.Parse(Console.ReadLine());
+        int fact = 1;
+        for (int i = 1; i <= n; i++)
         {
-            if (n==22564)
-            {
-                break;
-            }
-            Console.WriteLine(n);
-            n++;
+            fact =fact*i;
         }
-    }
 
-        
+        Console.WriteLine(fact);
+    }
 }
 

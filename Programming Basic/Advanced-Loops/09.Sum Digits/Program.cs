@@ -5,11 +5,12 @@
         static void Main()
         {
         int n = int.Parse(Console.ReadLine());
+        int numb = 1;
         int sum = 0;
         do
         {
-            sum = sum + n%10;
-            n = n / 10;
+            numb = n % 10;
+            sum = sum + numb;
         } while (n>0);
         Console.WriteLine(sum);
         }
