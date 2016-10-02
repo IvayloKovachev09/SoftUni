@@ -5,54 +5,57 @@ class PriceChangeAlert
     static void Main()
     {
         int n = int.Parse(Console.ReadLine());
-        double granica = double.Parse(Console.ReadLine());
-        double lastPrice = double.Parse(Console.ReadLine());
+        double priceTreshHold = double.Parse(Console.ReadLine());
+        double firstPrice = double.Parse(Console.ReadLine());
+        double lastPrice = firstPrice;
 
-        for (int i = 0; i < n-1 ; i++)
+        for (int i = 0; i < n - 1; i++)
         {
             double currentPrice = double.Parse(Console.ReadLine());
-            double div = Proc(lastPrice, currentPrice);
-            bool isSignificantDifference = HaveDifferent(div, granica);
-            string message = GetPrice(currentPrice, lastPrice, div, isSignificantDifference);
+            double difference = GetPercemtageDifference(lastPrice, currentPrice);
+            bool isSignificantDifference = IsHaveDifferent(difference, priceTreshHold);
+            string message = GetPrice(currentPrice, lastPrice, difference, isSignificantDifference);
             Console.WriteLine(message);
 
             lastPrice = currentPrice;
         }
     }
 
-    private static string GetPrice(double currentPrice, double lastPrice, double difference, bool etherTrueOrFalse)
-            {
-                string to = "";
-                if (difference == 0)
-                {
-                    to = string.Format("NO CHANGE: {0}", currentPrice);
-                }
-                else if (!etherTrueOrFalse)
-                {
-                    to = string.Format("MINOR CHANGE: {0} to {1} ({2:F2}%)", lastPrice, currentPrice, difference);
-                }
-                else if (etherTrueOrFalse && (difference > 0))
-                {
-                    to = string.Format("PRICE UP: {0} to {1} ({2:F2}%)", lastPrice, currentPrice, difference);
-                }
-                else if (etherTrueOrFalse && (difference < 0))
-                    to = string.Format("PRICE DOWN: {0} to {1} ({2:F2}%)", lastPrice, currentPrice, difference);
-                return to;
-            }
-    private static bool HaveDifferent(double granica, double isDiff)
-            {
-                if (Math.Abs(granica) >= isDiff)
-                {
-                    return true;
-                }
-                return false;
-            }
+    private static string GetPrice(double currentPrice, double lastPrice, double difference, bool isSignificantDifference)
+    {
+        string result = "";
+        if (difference == 0)
+        {
+            result = string.Format("NO CHANGE: {0}", currentPrice);
+        }
+        else if (!isSignificantDifference)
+        {
+            result = string.Format("MINOR CHANGE: {0} to {1} ({2:F2}%)", lastPrice, currentPrice, difference);
+        }
+        else if (isSignificantDifference && (difference > 0))
+        {
+            result = string.Format("PRICE UP: {0} to {1} ({2:F2}%)", lastPrice, currentPrice, difference);
+        }
+        else if (isSignificantDifference && (difference < 0))
+        {
+            result = string.Format("PRICE DOWN: {0} to {1} ({2:F2}%)", lastPrice, currentPrice, difference);
+        }
+        return result;
+    }
+    private static bool IsHaveDifferent(double difference, double priceTreshHold)
+    {
+        if (Math.Abs(difference/100) >= priceTreshHold)
+        {
+            return true;
+        }
+        return false;
+    }
 
-    private static double Proc(double lastPrice, double currentPrice)
-            {
-                double r = (currentPrice - lastPrice) * lastPrice;
-                return r;
-            }
+    private static double GetPercemtageDifference(double lastPrice, double currentPrice)
+    {
+        double result = ((currentPrice - lastPrice) / lastPrice)*100;
+        return result;
+    }
 }
 
 

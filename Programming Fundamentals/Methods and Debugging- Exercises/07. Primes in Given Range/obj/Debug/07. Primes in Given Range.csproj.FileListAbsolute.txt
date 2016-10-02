@@ -1,0 +1,6 @@
+D:\SoftUniGitHub\Programming Fundamentals\Methods and Debugging- Exercises\07. Primes in Given Range\bin\Debug\_07.Primes_in_Given_Range.exe.config
+D:\SoftUniGitHub\Programming Fundamentals\Methods and Debugging- Exercises\07. Primes in Given Range\bin\Debug\_07.Primes_in_Given_Range.exe
+D:\SoftUniGitHub\Programming Fundamentals\Methods and Debugging- Exercises\07. Primes in Given Range\bin\Debug\_07.Primes_in_Given_Range.pdb
+D:\SoftUniGitHub\Programming Fundamentals\Methods and Debugging- Exercises\07. Primes in Given Range\obj\Debug\07. Primes in Given Range.csprojResolveAssemblyReference.cache
+D:\SoftUniGitHub\Programming Fundamentals\Methods and Debugging- Exercises\07. Primes in Given Range\obj\Debug\_07.Primes_in_Given_Range.exe
+D:\SoftUniGitHub\Programming Fundamentals\Methods and Debugging- Exercises\07. Primes in Given Range\obj\Debug\_07.Primes_in_Given_Range.pdb
