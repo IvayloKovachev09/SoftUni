@@ -1,0 +1,5 @@
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\PrintHelloPerson\bin\Debug\PrintHelloPerson.exe.config
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\PrintHelloPerson\bin\Debug\PrintHelloPerson.exe
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\PrintHelloPerson\bin\Debug\PrintHelloPerson.pdb
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\PrintHelloPerson\obj\Debug\PrintHelloPerson.exe
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\PrintHelloPerson\obj\Debug\PrintHelloPerson.pdb

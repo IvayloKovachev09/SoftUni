@@ -1,0 +1,5 @@
+D:\SoftUni\Programming Basic\Simple-Conditions\Even or Odd\bin\Debug\Even or Odd.exe.config
+D:\SoftUni\Programming Basic\Simple-Conditions\Even or Odd\bin\Debug\Even or Odd.exe
+D:\SoftUni\Programming Basic\Simple-Conditions\Even or Odd\bin\Debug\Even or Odd.pdb
+D:\SoftUni\Programming Basic\Simple-Conditions\Even or Odd\obj\Debug\Even or Odd.exe
+D:\SoftUni\Programming Basic\Simple-Conditions\Even or Odd\obj\Debug\Even or Odd.pdb

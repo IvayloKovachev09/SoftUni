@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basic\Simple-Conditions\Equal Words\bin\Debug\Equal Words.exe.config
+D:\SoftUni\Programming Basic\Simple-Conditions\Equal Words\bin\Debug\Equal Words.exe
+D:\SoftUni\Programming Basic\Simple-Conditions\Equal Words\bin\Debug\Equal Words.pdb
+D:\SoftUni\Programming Basic\Simple-Conditions\Equal Words\obj\Debug\Equal Words.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basic\Simple-Conditions\Equal Words\obj\Debug\Equal Words.exe
+D:\SoftUni\Programming Basic\Simple-Conditions\Equal Words\obj\Debug\Equal Words.pdb

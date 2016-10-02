@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basic\Simple-Conditions\Simple-Conditions\obj\Debug\Excellent-Result.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basic\Simple-Conditions\Simple-Conditions\bin\Debug\Simple-Conditions.exe.config
+D:\SoftUni\Programming Basic\Simple-Conditions\Simple-Conditions\bin\Debug\Simple-Conditions.exe
+D:\SoftUni\Programming Basic\Simple-Conditions\Simple-Conditions\bin\Debug\Simple-Conditions.pdb
+D:\SoftUni\Programming Basic\Simple-Conditions\Simple-Conditions\obj\Debug\Simple-Conditions.exe
+D:\SoftUni\Programming Basic\Simple-Conditions\Simple-Conditions\obj\Debug\Simple-Conditions.pdb

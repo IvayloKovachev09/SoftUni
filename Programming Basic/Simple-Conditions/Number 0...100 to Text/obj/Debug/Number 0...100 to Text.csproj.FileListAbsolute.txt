@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basic\Simple-Conditions\Number 0...100 to Text\bin\Debug\Number_0._._._100_to_Text.exe.config
+D:\SoftUni\Programming Basic\Simple-Conditions\Number 0...100 to Text\bin\Debug\Number_0._._._100_to_Text.exe
+D:\SoftUni\Programming Basic\Simple-Conditions\Number 0...100 to Text\bin\Debug\Number_0._._._100_to_Text.pdb
+D:\SoftUni\Programming Basic\Simple-Conditions\Number 0...100 to Text\obj\Debug\Number 0...100 to Text.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basic\Simple-Conditions\Number 0...100 to Text\obj\Debug\Number_0._._._100_to_Text.exe
+D:\SoftUni\Programming Basic\Simple-Conditions\Number 0...100 to Text\obj\Debug\Number_0._._._100_to_Text.pdb

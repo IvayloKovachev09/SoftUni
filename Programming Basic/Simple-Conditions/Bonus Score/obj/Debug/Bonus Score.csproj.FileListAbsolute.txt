@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basic\Simple-Conditions\Bonus Score\bin\Debug\Bonus Score.exe.config
+D:\SoftUni\Programming Basic\Simple-Conditions\Bonus Score\obj\Debug\Bonus Score.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basic\Simple-Conditions\Bonus Score\bin\Debug\Bonus Score.exe
+D:\SoftUni\Programming Basic\Simple-Conditions\Bonus Score\bin\Debug\Bonus Score.pdb
+D:\SoftUni\Programming Basic\Simple-Conditions\Bonus Score\obj\Debug\Bonus Score.exe
+D:\SoftUni\Programming Basic\Simple-Conditions\Bonus Score\obj\Debug\Bonus Score.pdb

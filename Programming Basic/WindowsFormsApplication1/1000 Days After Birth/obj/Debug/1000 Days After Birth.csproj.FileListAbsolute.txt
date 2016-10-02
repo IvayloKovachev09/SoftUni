@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\1000 Days After Birth\bin\Debug\1000 Days After Birth.exe.config
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\1000 Days After Birth\obj\Debug\1000 Days After Birth.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\1000 Days After Birth\bin\Debug\1000 Days After Birth.exe
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\1000 Days After Birth\bin\Debug\1000 Days After Birth.pdb
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\1000 Days After Birth\obj\Debug\1000 Days After Birth.exe
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\1000 Days After Birth\obj\Debug\1000 Days After Birth.pdb

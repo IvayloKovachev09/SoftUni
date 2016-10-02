@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\ConcatData\bin\Debug\ConcatData.exe.config
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\ConcatData\obj\Debug\ConcatData.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\ConcatData\bin\Debug\ConcatData.exe
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\ConcatData\bin\Debug\ConcatData.pdb
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\ConcatData\obj\Debug\ConcatData.exe
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\ConcatData\obj\Debug\ConcatData.pdb

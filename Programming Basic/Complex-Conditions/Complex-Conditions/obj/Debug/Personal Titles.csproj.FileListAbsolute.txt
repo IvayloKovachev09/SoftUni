@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basic\Complex-Conditions\Complex-Conditions\bin\Debug\Complex-Conditions.exe.config
+D:\SoftUni\Programming Basic\Complex-Conditions\Complex-Conditions\bin\Debug\Complex-Conditions.exe
+D:\SoftUni\Programming Basic\Complex-Conditions\Complex-Conditions\bin\Debug\Complex-Conditions.pdb
+D:\SoftUni\Programming Basic\Complex-Conditions\Complex-Conditions\obj\Debug\Personal Titles.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basic\Complex-Conditions\Complex-Conditions\obj\Debug\Complex-Conditions.exe
+D:\SoftUni\Programming Basic\Complex-Conditions\Complex-Conditions\obj\Debug\Complex-Conditions.pdb

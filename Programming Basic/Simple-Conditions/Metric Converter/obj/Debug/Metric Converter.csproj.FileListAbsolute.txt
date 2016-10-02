@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basic\Simple-Conditions\Metric Converter\bin\Debug\Metric Converter.exe.config
+D:\SoftUni\Programming Basic\Simple-Conditions\Metric Converter\bin\Debug\Metric Converter.exe
+D:\SoftUni\Programming Basic\Simple-Conditions\Metric Converter\bin\Debug\Metric Converter.pdb
+D:\SoftUni\Programming Basic\Simple-Conditions\Metric Converter\obj\Debug\Metric Converter.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basic\Simple-Conditions\Metric Converter\obj\Debug\Metric Converter.exe
+D:\SoftUni\Programming Basic\Simple-Conditions\Metric Converter\obj\Debug\Metric Converter.pdb

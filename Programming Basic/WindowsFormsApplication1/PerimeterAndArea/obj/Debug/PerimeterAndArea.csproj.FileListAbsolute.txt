@@ -1,0 +1,5 @@
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\PerimeterAndArea\bin\Debug\PerimeterAndArea.exe.config
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\PerimeterAndArea\bin\Debug\PerimeterAndArea.exe
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\PerimeterAndArea\bin\Debug\PerimeterAndArea.pdb
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\PerimeterAndArea\obj\Debug\PerimeterAndArea.exe
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\PerimeterAndArea\obj\Debug\PerimeterAndArea.pdb

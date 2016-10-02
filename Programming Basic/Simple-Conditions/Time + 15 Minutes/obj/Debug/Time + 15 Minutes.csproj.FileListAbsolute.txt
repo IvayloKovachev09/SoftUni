@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basic\Simple-Conditions\Time + 15 Minutes\bin\Debug\Time + 15 Minutes.exe.config
+D:\SoftUni\Programming Basic\Simple-Conditions\Time + 15 Minutes\obj\Debug\Time + 15 Minutes.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basic\Simple-Conditions\Time + 15 Minutes\bin\Debug\Time + 15 Minutes.exe
+D:\SoftUni\Programming Basic\Simple-Conditions\Time + 15 Minutes\bin\Debug\Time + 15 Minutes.pdb
+D:\SoftUni\Programming Basic\Simple-Conditions\Time + 15 Minutes\obj\Debug\Time + 15 Minutes.exe
+D:\SoftUni\Programming Basic\Simple-Conditions\Time + 15 Minutes\obj\Debug\Time + 15 Minutes.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basic\Complex-Conditions\07. Fruit Shopp\bin\Debug\_07.Fruit_Shopp.exe.config
+D:\SoftUni\Programming Basic\Complex-Conditions\07. Fruit Shopp\bin\Debug\_07.Fruit_Shopp.exe
+D:\SoftUni\Programming Basic\Complex-Conditions\07. Fruit Shopp\bin\Debug\_07.Fruit_Shopp.pdb
+D:\SoftUni\Programming Basic\Complex-Conditions\07. Fruit Shopp\obj\Debug\07. Fruit Shopp.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basic\Complex-Conditions\07. Fruit Shopp\obj\Debug\_07.Fruit_Shopp.exe
+D:\SoftUni\Programming Basic\Complex-Conditions\07. Fruit Shopp\obj\Debug\_07.Fruit_Shopp.pdb

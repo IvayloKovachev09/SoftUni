@@ -1,0 +1,9 @@
+D:\SoftUni\Programming Basic\Simple-Conditions\ConvertorMoneyForms\bin\Debug\ConvertorMoneyForms.exe.config
+D:\SoftUni\Programming Basic\Simple-Conditions\ConvertorMoneyForms\bin\Debug\ConvertorMoneyForms.exe
+D:\SoftUni\Programming Basic\Simple-Conditions\ConvertorMoneyForms\bin\Debug\ConvertorMoneyForms.pdb
+D:\SoftUni\Programming Basic\Simple-Conditions\ConvertorMoneyForms\obj\Debug\Currency-Converter.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basic\Simple-Conditions\ConvertorMoneyForms\obj\Debug\ConvertorMoneyForms.FormConverter.resources
+D:\SoftUni\Programming Basic\Simple-Conditions\ConvertorMoneyForms\obj\Debug\ConvertorMoneyForms.Properties.Resources.resources
+D:\SoftUni\Programming Basic\Simple-Conditions\ConvertorMoneyForms\obj\Debug\Currency-Converter.csproj.GenerateResource.Cache
+D:\SoftUni\Programming Basic\Simple-Conditions\ConvertorMoneyForms\obj\Debug\ConvertorMoneyForms.exe
+D:\SoftUni\Programming Basic\Simple-Conditions\ConvertorMoneyForms\obj\Debug\ConvertorMoneyForms.pdb

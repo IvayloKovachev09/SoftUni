@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\CircleAreaAndPerimeter\bin\Debug\CircleAreaAndPerimeter.exe.config
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\CircleAreaAndPerimeter\bin\Debug\CircleAreaAndPerimeter.exe
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\CircleAreaAndPerimeter\bin\Debug\CircleAreaAndPerimeter.pdb
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\CircleAreaAndPerimeter\obj\Debug\CircleAreaAndPerimeter.exe
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\CircleAreaAndPerimeter\obj\Debug\CircleAreaAndPerimeter.pdb
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\CircleAreaAndPerimeter\obj\Debug\CircleAreaAndPerimeter.csprojResolveAssemblyReference.cache

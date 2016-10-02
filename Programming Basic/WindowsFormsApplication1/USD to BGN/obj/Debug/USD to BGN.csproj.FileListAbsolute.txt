@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\USD to BGN\bin\Debug\USD to BGN.exe.config
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\USD to BGN\bin\Debug\USD to BGN.exe
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\USD to BGN\bin\Debug\USD to BGN.pdb
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\USD to BGN\obj\Debug\USD to BGN.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\USD to BGN\obj\Debug\USD to BGN.exe
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\USD to BGN\obj\Debug\USD to BGN.pdb

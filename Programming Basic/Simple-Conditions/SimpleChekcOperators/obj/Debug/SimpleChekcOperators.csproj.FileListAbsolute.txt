@@ -1,0 +1,5 @@
+D:\SoftUni\Programming Basic\Simple-Conditions\SimpleChekcOperators\bin\Debug\SimpleChekcOperators.exe.config
+D:\SoftUni\Programming Basic\Simple-Conditions\SimpleChekcOperators\bin\Debug\SimpleChekcOperators.exe
+D:\SoftUni\Programming Basic\Simple-Conditions\SimpleChekcOperators\bin\Debug\SimpleChekcOperators.pdb
+D:\SoftUni\Programming Basic\Simple-Conditions\SimpleChekcOperators\obj\Debug\SimpleChekcOperators.exe
+D:\SoftUni\Programming Basic\Simple-Conditions\SimpleChekcOperators\obj\Debug\SimpleChekcOperators.pdb

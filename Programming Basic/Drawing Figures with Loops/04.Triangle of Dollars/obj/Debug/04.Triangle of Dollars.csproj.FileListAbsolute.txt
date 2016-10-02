@@ -1,0 +1,5 @@
+c:\users\ivaylo\documents\visual studio 2015\Projects\Drawing Figures with Loops\04.Triangle of Dollars\bin\Debug\04.Triangle of Dollars.exe.config
+c:\users\ivaylo\documents\visual studio 2015\Projects\Drawing Figures with Loops\04.Triangle of Dollars\bin\Debug\04.Triangle of Dollars.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\Drawing Figures with Loops\04.Triangle of Dollars\bin\Debug\04.Triangle of Dollars.pdb
+c:\users\ivaylo\documents\visual studio 2015\Projects\Drawing Figures with Loops\04.Triangle of Dollars\obj\Debug\04.Triangle of Dollars.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\Drawing Figures with Loops\04.Triangle of Dollars\obj\Debug\04.Triangle of Dollars.pdb

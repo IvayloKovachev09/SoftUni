@@ -1,0 +1,5 @@
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\celiChisla\bin\Debug\celiChisla.exe.config
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\celiChisla\bin\Debug\celiChisla.exe
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\celiChisla\bin\Debug\celiChisla.pdb
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\celiChisla\obj\Debug\celiChisla.exe
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\celiChisla\obj\Debug\celiChisla.pdb

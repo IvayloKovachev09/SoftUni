@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basic\Simple-Conditions\Speed Info\bin\Debug\Speed Info.exe.config
+D:\SoftUni\Programming Basic\Simple-Conditions\Speed Info\bin\Debug\Speed Info.exe
+D:\SoftUni\Programming Basic\Simple-Conditions\Speed Info\bin\Debug\Speed Info.pdb
+D:\SoftUni\Programming Basic\Simple-Conditions\Speed Info\obj\Debug\Speed Info.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basic\Simple-Conditions\Speed Info\obj\Debug\Speed Info.exe
+D:\SoftUni\Programming Basic\Simple-Conditions\Speed Info\obj\Debug\Speed Info.pdb

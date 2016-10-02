@@ -1,0 +1,9 @@
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\BGNtoEUR\bin\Debug\BGNtoEUR.exe.config
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\BGNtoEUR\bin\Debug\BGNtoEUR.exe
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\BGNtoEUR\bin\Debug\BGNtoEUR.pdb
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\BGNtoEUR\obj\Debug\BGNtoEUR.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\BGNtoEUR\obj\Debug\BGNtoEUR.Form1.resources
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\BGNtoEUR\obj\Debug\BGNtoEUR.Properties.Resources.resources
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\BGNtoEUR\obj\Debug\BGNtoEUR.csproj.GenerateResource.Cache
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\BGNtoEUR\obj\Debug\BGNtoEUR.exe
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\BGNtoEUR\obj\Debug\BGNtoEUR.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\InchesToSmConverter\bin\Debug\InchesToSmConverter.exe.config
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\InchesToSmConverter\obj\Debug\InchesToSmConverter.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\InchesToSmConverter\bin\Debug\InchesToSmConverter.exe
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\InchesToSmConverter\bin\Debug\InchesToSmConverter.pdb
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\InchesToSmConverter\obj\Debug\InchesToSmConverter.exe
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\InchesToSmConverter\obj\Debug\InchesToSmConverter.pdb

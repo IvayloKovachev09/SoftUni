@@ -1,0 +1,5 @@
+D:\SoftUni\Programming Basic\HelloCSharp\Expression\bin\Debug\Expression.exe.config
+D:\SoftUni\Programming Basic\HelloCSharp\Expression\bin\Debug\Expression.exe
+D:\SoftUni\Programming Basic\HelloCSharp\Expression\bin\Debug\Expression.pdb
+D:\SoftUni\Programming Basic\HelloCSharp\Expression\obj\Debug\Expression.exe
+D:\SoftUni\Programming Basic\HelloCSharp\Expression\obj\Debug\Expression.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\Currency Converter\bin\Debug\Currency Converter.exe.config
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\Currency Converter\obj\Debug\Currency Converter.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\Currency Converter\bin\Debug\Currency Converter.exe
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\Currency Converter\bin\Debug\Currency Converter.pdb
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\Currency Converter\obj\Debug\Currency Converter.exe
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\Currency Converter\obj\Debug\Currency Converter.pdb

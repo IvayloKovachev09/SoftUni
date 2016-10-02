@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basic\Simple-Conditions\Number 100...200\bin\Debug\Number_100._._._200.exe.config
+D:\SoftUni\Programming Basic\Simple-Conditions\Number 100...200\bin\Debug\Number_100._._._200.exe
+D:\SoftUni\Programming Basic\Simple-Conditions\Number 100...200\bin\Debug\Number_100._._._200.pdb
+D:\SoftUni\Programming Basic\Simple-Conditions\Number 100...200\obj\Debug\Number 100...200.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basic\Simple-Conditions\Number 100...200\obj\Debug\Number_100._._._200.exe
+D:\SoftUni\Programming Basic\Simple-Conditions\Number 100...200\obj\Debug\Number_100._._._200.pdb

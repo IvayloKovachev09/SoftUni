@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\TrapezoidArea\bin\Debug\TrapezoidArea.exe.config
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\TrapezoidArea\bin\Debug\TrapezoidArea.exe
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\TrapezoidArea\bin\Debug\TrapezoidArea.pdb
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\TrapezoidArea\obj\Debug\TrapezoidArea.exe
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\TrapezoidArea\obj\Debug\TrapezoidArea.pdb
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\TrapezoidArea\obj\Debug\TrapezoidArea.csprojResolveAssemblyReference.cache

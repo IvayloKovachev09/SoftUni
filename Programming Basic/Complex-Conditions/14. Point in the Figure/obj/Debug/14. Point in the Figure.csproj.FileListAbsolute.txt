@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basic\Complex-Conditions\14. Point in the Figure\bin\Debug\_14.Point_in_the_Figure.exe.config
+D:\SoftUni\Programming Basic\Complex-Conditions\14. Point in the Figure\bin\Debug\_14.Point_in_the_Figure.exe
+D:\SoftUni\Programming Basic\Complex-Conditions\14. Point in the Figure\bin\Debug\_14.Point_in_the_Figure.pdb
+D:\SoftUni\Programming Basic\Complex-Conditions\14. Point in the Figure\obj\Debug\14. Point in the Figure.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basic\Complex-Conditions\14. Point in the Figure\obj\Debug\_14.Point_in_the_Figure.exe
+D:\SoftUni\Programming Basic\Complex-Conditions\14. Point in the Figure\obj\Debug\_14.Point_in_the_Figure.pdb

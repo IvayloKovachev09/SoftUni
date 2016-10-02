@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basic\Complex-Conditions\12. Cinema\bin\Debug\_12.Cinema.exe.config
+D:\SoftUni\Programming Basic\Complex-Conditions\12. Cinema\bin\Debug\_12.Cinema.exe
+D:\SoftUni\Programming Basic\Complex-Conditions\12. Cinema\bin\Debug\_12.Cinema.pdb
+D:\SoftUni\Programming Basic\Complex-Conditions\12. Cinema\obj\Debug\12. Cinema.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basic\Complex-Conditions\12. Cinema\obj\Debug\_12.Cinema.exe
+D:\SoftUni\Programming Basic\Complex-Conditions\12. Cinema\obj\Debug\_12.Cinema.pdb

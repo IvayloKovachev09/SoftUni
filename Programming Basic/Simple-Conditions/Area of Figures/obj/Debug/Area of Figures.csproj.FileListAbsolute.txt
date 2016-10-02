@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basic\Simple-Conditions\Area of Figures\bin\Debug\Area of Figures.exe.config
+D:\SoftUni\Programming Basic\Simple-Conditions\Area of Figures\bin\Debug\Area of Figures.exe
+D:\SoftUni\Programming Basic\Simple-Conditions\Area of Figures\bin\Debug\Area of Figures.pdb
+D:\SoftUni\Programming Basic\Simple-Conditions\Area of Figures\obj\Debug\Area of Figures.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basic\Simple-Conditions\Area of Figures\obj\Debug\Area of Figures.exe
+D:\SoftUni\Programming Basic\Simple-Conditions\Area of Figures\obj\Debug\Area of Figures.pdb

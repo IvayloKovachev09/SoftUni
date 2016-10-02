@@ -1,0 +1,5 @@
+D:\SoftUni\Programming Basic\Complex-Conditions\04. Fruit or Vegetable\bin\Debug\_04.Fruit_or_Vegetable.exe.config
+D:\SoftUni\Programming Basic\Complex-Conditions\04. Fruit or Vegetable\bin\Debug\_04.Fruit_or_Vegetable.exe
+D:\SoftUni\Programming Basic\Complex-Conditions\04. Fruit or Vegetable\bin\Debug\_04.Fruit_or_Vegetable.pdb
+D:\SoftUni\Programming Basic\Complex-Conditions\04. Fruit or Vegetable\obj\Debug\_04.Fruit_or_Vegetable.exe
+D:\SoftUni\Programming Basic\Complex-Conditions\04. Fruit or Vegetable\obj\Debug\_04.Fruit_or_Vegetable.pdb

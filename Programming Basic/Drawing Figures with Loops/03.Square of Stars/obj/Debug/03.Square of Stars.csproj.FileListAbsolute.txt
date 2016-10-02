@@ -1,0 +1,6 @@
+c:\users\ivaylo\documents\visual studio 2015\Projects\Drawing Figures with Loops\03.Square of Stars\bin\Debug\03.Square of Stars.exe.config
+c:\users\ivaylo\documents\visual studio 2015\Projects\Drawing Figures with Loops\03.Square of Stars\bin\Debug\03.Square of Stars.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\Drawing Figures with Loops\03.Square of Stars\bin\Debug\03.Square of Stars.pdb
+c:\users\ivaylo\documents\visual studio 2015\Projects\Drawing Figures with Loops\03.Square of Stars\obj\Debug\03.Square of Stars.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\Drawing Figures with Loops\03.Square of Stars\obj\Debug\03.Square of Stars.pdb
+c:\users\ivaylo\documents\visual studio 2015\Projects\Drawing Figures with Loops\03.Square of Stars\obj\Debug\03.Square of Stars.csprojResolveAssemblyReference.cache

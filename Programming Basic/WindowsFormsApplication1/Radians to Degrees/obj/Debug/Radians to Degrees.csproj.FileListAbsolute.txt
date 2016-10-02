@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\Radians to Degrees\bin\Debug\Radians to Degrees.exe.config
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\Radians to Degrees\obj\Debug\Radians to Degrees.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\Radians to Degrees\bin\Debug\Radians to Degrees.exe
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\Radians to Degrees\bin\Debug\Radians to Degrees.pdb
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\Radians to Degrees\obj\Debug\Radians to Degrees.exe
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\Radians to Degrees\obj\Debug\Radians to Degrees.pdb

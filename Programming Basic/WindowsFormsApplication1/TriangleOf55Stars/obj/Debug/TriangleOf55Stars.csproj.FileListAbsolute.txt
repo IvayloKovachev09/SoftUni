@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.exe.config
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.exe
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.pdb
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.exe
+D:\SoftUni\Programming Basic\WindowsFormsApplication1\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.pdb
