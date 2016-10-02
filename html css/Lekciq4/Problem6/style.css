@@ -1,0 +1,156 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color:  #000000 ;
+}
+#body{
+	font-family: arial;
+	background-color: #ffffff;
+	width: 900px;
+	height: 2000px;
+	position: center;
+	margin: 0px auto 9px;
+	position: relative;
+	z-index: 1;
+}
+header{
+	background-image: url("headerBackground.jpg");
+	background-repeat: no-repeat;
+	width: 900px;
+	height: 270px;
+}
+.header{
+	color: #ffffff;
+	position: absolute;
+	top:200px;
+	left: 500px;
+	width: 380px;
+	letter-spacing: 1px;
+}
+nav{
+	background-color:  #ebeff1 ;
+	height: 41px;
+}
+.nav{
+	color:  #87949c ;
+	background-color:  #ebeff1 ;
+	border: 1px solid  #ffffff ;
+	display: inline-block;
+	width: 116px;
+	height: 36px;
+	text-decoration: none;
+	float:left;
+}
+#pHome{
+	background-color:  #bdc3c7 ;
+	color: #ffffff;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 37px;
+}
+.pNav{
+	text-align: center;
+	vertical-align: middle;
+	line-height: 37px;
+}
+#first{
+	background-color: #ffffff;
+	width: 550px;
+	height: 200px;
+	border:2px solid #ebeff1 ;
+	border-radius: 20px;
+	margin:25px 40px;
+}
+
+h3{
+	color:  #95f842 ;
+	padding-left: 25px;
+	padding-top: 15px; 
+}
+span{
+	font-weight: bold;
+}
+#pSection{
+	padding:25px;
+	font-size: 13px;
+}
+#second{
+	background-color: #ffffff;
+	width: 550px;
+	height: 615px;
+	border:2px solid #ebeff1 ;
+	border-radius: 20px;
+	margin:25px 40px;
+}
+img{
+	float: left;
+	margin: 28px;
+	display: inline-block;
+}
+h5{ 
+	font-weight: bold;
+	float: left;
+	margin:25px 25px;
+	display: inline-block;
+	width: 290px;
+}
+#article{
+	font-size: 13px;
+	margin-right: 22px;
+
+}
+img{
+	display: inline-block;
+	float:left;
+}
+article{
+	margin-top: 35px;
+}
+#asideNews{
+	background-color: #ebeff1;
+	width: 200px;
+	height: 270px;
+	border:2px solid #ebeff1 ;
+	border-radius: 20px;
+	margin:25px 25px;
+	position: absolute;
+	left: 620px;
+	top:310px;
+}
+#asideMess{
+	width: 200px;
+	height: 442px;
+	border:2px solid #ebeff1 ;
+	border-radius: 20px;
+	margin:25px 25px;
+	position: absolute;
+	top:625px;
+	left:620px;
+}
+#pNews{
+	padding: 10px;
+	font-size: 13px;
+}
+.aNews{
+	font-weight: bold;
+	color:#95f842;
+}
+.aMess{
+	font-weight: bold;
+	color:#95f842;
+	padding: 10px;
+	font-size: 15px;
+}
+footer{
+	background-color:  #75e815 ;
+	width: 900px;
+	height: 150px;
+	border-top: 3px double #ffffff;
+	font-size: 14px;
+	text-align: center;
+	line-height: 140px;
+
+
+}

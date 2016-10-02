@@ -1,0 +1,1 @@
+Slice the images into HTML and CSS code.

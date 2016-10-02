@@ -1,0 +1,183 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	background-color: #63ace3;
+}
+#wrapper{
+	width: 780px;
+	height: 100%;
+	margin: 0 auto;
+}
+span{
+	color:white;
+	margin-left: 10px;
+	font-size: 2.5rem;
+}
+h1 a{
+	text-decoration: none;
+	margin-left: 10px;
+}
+nav{
+	border-top: 1px solid black;
+	margin-top: 30px;
+}
+nav ul li{
+	list-style-type: none;
+	margin-bottom: -24px;
+}
+nav ul li:first-child{
+	margin-left:210px;
+}
+nav ul li a{
+	text-decoration: none;
+	float:left;
+	display: block;
+	width: 100px;
+	height: 6px;
+	background: #4E9CAF;
+	padding: 10px;
+	text-align: center;
+	border:1px solid black;
+	color: black;
+	background-color: white;
+	margin: 10px;
+	line-height: 5px;
+}
+section{
+	float: left;
+	width: 530px;
+}
+article{
+	width: 530px;
+	border:1px solid black;
+	margin-top: 10px;
+	overflow: hidden;
+	background-color:   #eafaf6 ;
+}
+article header h1{
+	margin: 10px;
+	font-size: 1.4rem;
+}
+p{
+	margin: 10px 10px 20px 10px;
+	text-indent: 20px;
+	font-size: 0.88rem;
+	color:   #3a506f;
+}
+.news div{
+	margin: 10px;
+}
+.news{
+	width: 220px;
+	height: 250px;
+	border:1px solid black;
+	background-color: #eafaf6;
+	overflow: hidden;
+	margin-top: 58px;
+	margin-left: 550px;
+}
+.block{
+	list-style-type: none;
+	margin: 10px;
+}
+.block a{
+	text-decoration: none;
+	color:#3a506f;
+	font-size: 0.88rem;
+}
+footer{
+	border:1px solid black;
+	width:780px;
+	height: 50px;
+	display: inline-block;
+	background-color: #eafaf6;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	text-align: center;
+	line-height: 57px;
+}
+
+
+@media only screen and (max-width: 780px){
+	#wrapper,section,article,footer{
+		width: 99.8%;
+	}
+		span{
+		font-size: 2.2rem;
+	}
+	section{
+		float: none;
+	}
+	.news{
+		width: 99.8%;
+		height: 140px;
+		margin-top: 10px;
+		margin-left: 0px;
+	}
+	.block{
+		display: inline-block;
+		width: 20%;
+		height: 100px;
+		text-align: center;
+		margin-top:10px;
+		float: left;
+	}		
+	nav ul li:first-child{
+	    margin-left:50px;
+	}
+
+@media only screen and (max-width: 640px){
+	#wrapper,section,article,footer{
+		width: 99.2%;
+	}
+		span{
+		font-size: 2.2rem;
+	}
+	header h1 a img{
+		display: block;
+		margin: 0 auto;
+	}
+	span{
+		display:block;
+		width: 100px;
+		margin: 0 auto;
+	}
+	section{
+		float: none;
+	}
+	nav{
+		width: 99.2%;
+		height: 30px;
+		margin-bottom: 100px;
+	}
+	nav ul{
+		width: 80%;
+		margin-top: 10px;
+	}
+	nav ul li a{
+		width: 100%; 
+		margin-top: -11px;
+		margin-left:9%;
+	}
+	nav ul li:first-child{
+		width: 100%;
+		margin-left:0px;
+		margin-top: 17px;
+
+	}
+	.news{
+		width: 99.2%;
+		height: 175px;
+	}
+	.block {
+		width: 100%;
+		height: 20px;
+		margin:10px;
+	}
+	footer{
+		font-size: 0.7rem;
+	}	
+
+}

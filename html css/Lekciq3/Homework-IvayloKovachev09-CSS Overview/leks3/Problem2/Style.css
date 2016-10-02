@@ -1,0 +1,96 @@
+body{
+	background-image: url(colorful_dots_on_black.jpg);
+	background-repeat: repeat;
+}
+body>header{
+	text-align: center;
+    padding: 10px;
+	border-left: 445px solid red;
+	border-right: 445px solid blue;
+	background-color: green;
+	font-family: "Arial";
+	color: yellow;
+	font-size: 40px;
+	margin-top: -8px;
+	margin-left: -8px;
+	margin-right: -8px	
+}
+section{
+	padding-left: 250px;
+	margin-top: -260px
+}
+aside{
+	margin: 10px;
+}
+nav>header{
+	text-decoration: underline;
+	font-size: 20px;
+	padding: 10px;
+	text-align: center
+}
+nav{
+	width: 200px;
+	height: 250px;
+	background-color: rgba(240,240,233,0.9);
+	padding: 10 px;
+	border-radius: 20px;
+	margin-top: 25px;
+}
+article{
+	width: 1050px;
+	height: auto;
+	background-color: rgba(240,240,233,0.9);
+	padding: 5px;
+	margin:10px;
+	border-radius: 20px;
+	
+}	
+#webColors{
+	background-color: red;
+	margin:10px;
+	border-radius: 10px;
+	height: 30px;
+	padding: 5px;
+	font-size: 25px;
+}
+#webSafeColors{
+	background-color: orange;
+	margin:10px;
+	border-radius: 10px;
+	height: 30px;
+	padding: 5px;
+	font-size: 25px
+}
+#RGB{
+	background-color: yellow;
+	margin:10px;
+	border-radius: 10px;
+	height: 30px;
+	padding: 5px;
+	font-size: 25px
+}
+#RGBA{
+	background-color: green;
+	margin:10px;
+	border-radius: 10px;
+	height: 30px;
+	padding: 5px;
+	font-size: 25px
+}
+#HSLHSV{
+	background-color: blue;
+	margin:10px;
+	border-radius: 10px;
+	height: 30px;
+	padding: 5px;
+	font-size: 25px
+}
+#lorem{
+	background-color: purple;
+	margin:10px;
+	border-radius: 10px;
+	height: 30px;
+	padding: 5px;
+	font-size: 25px
+}
+

@@ -1,0 +1,123 @@
+#head{
+	border: 2px solid black;
+	background-color: yellow;
+	height: 400px;
+	width: 400px;
+	border-top-left-radius: 100%;
+	border-top-right-radius: 100%;
+	border-bottom-right-radius: 100%;
+	border-bottom-left-radius: 100%;
+	z-index: 1
+
+}
+#right{
+	border: 2px solid black;
+	background-color: white;
+	height: 80px;
+	width: 80px;
+	border-top-left-radius: 100%;
+	border-top-right-radius: 100%;
+	border-bottom-right-radius: 100%;
+	border-bottom-left-radius: 100%;
+	position: absolute;
+	top: 110px;
+	left: 250px;
+	z-index: 2
+}
+#oko1{
+	border: 2px solid black;
+	background-color: black;
+	height: 20px;
+	width: 20px;
+	border-top-left-radius: 100%;
+	border-top-right-radius: 100%;
+	border-bottom-right-radius: 100%;
+	border-bottom-left-radius: 100%;
+	
+
+}
+#left{
+	border: 2px solid black;
+	background-color: white;
+	height: 80px;
+	width: 80px;
+	border-top-left-radius: 100%;
+	border-top-right-radius: 100%;
+	border-bottom-right-radius: 100%;
+	border-bottom-left-radius: 100%;
+	position: absolute;
+	top: 110px;
+	left: 80px;
+	z-index: 2 
+}
+#oko2{
+	border: 2px solid black;
+	background-color: black;
+	height: 20px;
+	width: 20px;
+	border-top-left-radius: 100%;
+	border-top-right-radius: 100%;
+	border-bottom-right-radius: 100%;
+	border-bottom-left-radius: 100%;
+	position: absolute;
+	top: 40px;
+	left: 45px;
+	z-index: 2;
+}
+#noss{
+	border: 2px solid black;
+	background-color: red;
+	height: 60px;
+	width:  60px;
+	border-top-left-radius: 100%;
+	border-top-right-radius: 100%;
+	border-bottom-right-radius: 100%;
+	border-bottom-left-radius: 100%;
+	position: absolute;
+	top: 200px;
+	left: 180px;
+	z-index: 2;
+}
+#usta{
+	border: 2px solid black;
+	background-color: white;
+	height: 70px;
+	width:  180px;
+	border-top-left-radius: 50px;
+	border-top-right-radius: 50px;
+	border-bottom-right-radius: 50px;
+	border-bottom-left-radius: 50px;
+	position: absolute;
+	top: 280px;
+	left:120px;
+	z-index: 2;
+}
+#zyb1{
+	border: 2px solid black;
+	background-color: white;
+	height: 35px;
+	width: 35px;
+	border-top-style: none;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	position: absolute;
+	top: 0px;
+	left:50px;
+	z-index: 3;
+}
+#zyb2{
+	border: 2px solid black;
+	background-color: white;
+	height: 35px;
+	width: 35px;
+	border-top-style: none;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	position: absolute;
+	top: 0px;
+	left:88px;
+	z-index: 3;
+}
+
+
+	

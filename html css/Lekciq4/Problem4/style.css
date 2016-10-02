@@ -1,0 +1,77 @@
+footer{
+	border: 1px solid #162B40;
+	height: 300px;
+	width: 100%;
+	background-color: #162B40;
+	color:#ffffff;
+
+}
+.first{
+	float: left;
+	width: 200px;
+	height: 300px;
+}
+.second{
+	float: left;
+	width: 300px;
+	height: 300px;
+}
+.threed{
+	background-color: #ffffff;
+	float: left;
+	width: 300px;
+	height: 270px;
+	margin-bottom: 14px;
+	margin-top: 14px;
+}
+
+#button{
+	color: #ffffff;
+	background-color: #162B40;
+	border: 2px solid #DD4B06;
+	text-decoration: none;
+	width: 130px;
+	line-height: 30px;
+	display: inline-block;
+	text-align: center;
+	margin-top: 3px;
+	position: absolute;
+	top: 55px;
+	left:35px;
+}
+#button1{
+	color: #ffffff;
+	background-color: #162B40;
+	border: 2px solid #DD4B06;
+	text-decoration: none;
+	width: 130px;
+	line-height: 30px;
+	display: inline-block;
+	text-align: center;
+	margin-top: 3px;
+	position: absolute;
+	top: 92px;
+	left: 35px;
+}
+.header{
+	color: #DD4B06;
+	width: 200px;
+	margin-top: 50px;
+}
+
+.hreff,p{
+	color:#ffffff;
+	text-decoration: none;
+	font-size: 13px;
+}
+#softuniLogo{
+	float:left;
+	margin-left: 4px;
+	margin-top: 4px;
+}
+h3{
+	margin-top: 1px;
+	margin-left: 3px;
+	color:#162B40;
+	float: left;
+}

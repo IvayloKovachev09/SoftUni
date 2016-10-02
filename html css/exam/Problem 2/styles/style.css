@@ -1,0 +1,150 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+@font-face {
+    font-family: RicksAmericanNF;
+    src: url(RicksAmericanNF.ttf);
+}
+body{
+	background-color: black;
+}
+#wrapper{
+	margin: 0 auto;
+	color: #ffa300;
+	width: 960px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+}
+h1{
+	font-family: RicksAmericanNF;
+	text-align: center;
+	font-size: 60px;
+	letter-spacing:18px;
+}
+nav{
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+li{
+	list-style-type: none;
+	margin-left: 70px;
+	display: inline-block;
+}
+nav a{
+	width: 150px;
+	height: 36px;
+	text-decoration: none;
+	font-family: RicksAmericanNF;
+	font-size: 30px;
+	display: inline-block;
+	color: #ffa300;
+	text-align: center;
+}
+nav li:hover{
+	
+	border-radius: 18px;
+	background-color: #ffa300;
+}
+nav a:hover{
+	width: 150px;
+	height: 36px;
+	text-align: center;
+	color: black;
+}
+#main{
+	background-color: #3c3c3c;
+	height: 700px;
+}
+#left{
+	width: 600px;
+	height: 700px;
+	float: left;
+}
+section{
+	width:600px;
+	height: 330px; 
+	padding: 10px;
+}
+h3{
+	font-size: 23px;
+	text-align: center;
+	padding: 10px;
+	text-shadow: 1px 1px black;
+}
+#one{
+	width: 290px;
+	height: 220px;
+	margin: 15px;
+	float: left;
+}
+#second{
+	width: 290px;
+	height: 260px;
+	margin: 15px;
+	float: left;
+}
+
+section p{
+	margin-top: 15px;
+	text-shadow: 1px 1px black;
+
+}
+section a{
+	text-decoration: none;
+	color: #ffa300;
+	font-weight: bold;
+	font-style: italic;
+	text-shadow: 1px 1px black;
+}
+#right{
+	width: 250px;
+	display: inline-block;
+	float: left;
+	margin-top: 25px;
+	margin-left:90px;
+}	
+#up{
+	width: 200px;
+	height: 180px;
+	background-color: #ffa300;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	position: relative;
+}
+#up img{
+	width: 200px;
+	height: 150px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	position: absolute;
+	top:0px;
+}
+#up p{
+	color:black;
+	position: absolute;
+	bottom: 5px;
+	left:5px;
+}
+#down{
+	width: 200px;
+	background-color: #ffa300;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	margin-top: 20px;
+}
+#down img{
+	width: 200px;
+	height: 100px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	
+}
+#down p{
+	color: black;
+	text-align: center;
+}
+footer{
+	text-align: center;
+	clear: both;
+}

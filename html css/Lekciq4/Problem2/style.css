@@ -1,0 +1,105 @@
+@font-face{
+	font-family: animated;
+	src:url(images/Animated.ttf);
+}
+.bgg{
+	background-image: url("images/HawaiiBackground.png");
+	position: absolute;
+	width: 900px;
+	height: 600px;
+	z-index: 3;
+}
+#grad{
+	position: absolute;
+	width: 900px;
+	height: 329px;
+	z-index: 1;
+	background: -webkit-linear-gradient(left, #00CCFF , #0066FF); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(right, #00CCFF, #0066FF); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(right, #00CCFF, #0066FF); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(to right, #00CCFF , #0066FF); /* Standard syntax (must be last) */
+}
+#sunn{
+	position: absolute;
+	top: 40px;
+	left: 80px;
+	width: 150px;
+	height: 150px;
+	border-radius: 100%;
+	box-shadow: 33px 18px 32px 48px #FFFFCC;
+	opacity: 0.9;
+	z-index: 2;
+	background: -webkit-radial-gradient(#FFFF99,#FFFFCC); /* Safari 5.1 to 6.0 */
+    background: -o-radial-gradient(#FFFF99,#FFFFCC); /* For Opera 11.6 to 12.0 */
+    background: -moz-radial-gradient(#FFFF99,#FFFFCC); /* For Firefox 3.6 to 15 */
+    background: radial-gradient(#FFFF99,#FFFFCC); /* Standard syntax (must be last) */
+}
+.imgVlado{
+	background-image: url("images/VladoGHula.png");
+	background-repeat: no-repeat;
+	width: 265px;
+	height: 350px;
+    position:absolute;
+    top: 235px;
+    left: 50px;
+    z-index: 4;
+}
+.imgPetia{
+	background-image: url("images/PetiaHula.png");
+	background-repeat: no-repeat;
+	width: 265px;
+	height: 350px;
+    position:absolute;
+    top: 205px;
+    left: 194px;
+    z-index: 5;
+}
+.imgTedi{
+	background-image: url("images/TediHula.png");
+	background-repeat: no-repeat;
+	width: 265px;
+	height: 350px;
+    position:absolute;
+    top: 371px;
+    left: 278px;
+    z-index: 6;
+}
+.imgNakov{
+	background-image: url("images/NakovHula.png");
+	background-repeat: no-repeat;
+	width: 265px;
+	height: 408px;
+    position:absolute;
+    top: 168px;
+    left: 431px;
+    z-index: 4;
+}
+.imgAlex{
+	background-image: url("images/AlexHula.png");
+	background-repeat: no-repeat;
+	width: 265px;
+	height: 380px;
+    position:absolute;
+    top: 214px;
+    left: 510px;
+    z-index: 5;
+}
+.imgVladoK{
+	background-image: url("images/VladoKHula.png");
+	background-repeat: no-repeat;
+	width: 265px;
+	height: 350px;
+    position:absolute;
+    top: 240px;
+    left: 696px;
+    z-index: 6;
+}
+p{
+	position: absolute;
+	top: 0px;
+	left: 640px;
+	z-index: 6;
+	color: #f7bc05 ;
+	font-size: 2em;
+	font-family: animated;
+}

@@ -1,0 +1,113 @@
+body{
+	background-color: whitesmoke
+}
+#news{
+	color: darkblue;
+	font-family: sans-serif;
+	float: left;
+	margin-top: 50px;
+	margin-left: 90px
+}
+#level{
+	border: 1px solid whitesmoke;
+	background-color: white;
+	width: 350px;
+	height: 400px;
+	position: absolute;
+	top: 120px;
+	left: 100px;
+	box-shadow: 1px 1px 10px 1px #555;
+	padding: 10px
+}
+#summer{
+	border: 1px solid whitesmoke;
+	background-color: white;
+	width: 350px;
+	height: 400px;
+	position: absolute;
+	top: 120px;
+	left: 500px;
+	box-shadow: 1px 1px 10px 1px #555;
+    padding: 10px
+}
+#feedback{
+	border: 1px solid whitesmoke;
+	background-color: white;
+	width: 350px;
+	height: 400px;
+	position: absolute;
+	top: 120px;
+	left: 900px;
+	box-shadow: 1px 1px 10px 1px #555;
+	padding: 10px
+}
+.level{
+	text-transform: uppercase;
+	font-family: sans-serif;
+	font-size: 17px;
+	color: darkblue
+}
+.level1{
+	font-family: sans-serif;
+	font-size: 15px;
+	position: absolute;
+	top 5px;
+	left: 250px;
+}
+.level2{
+	font-family: sans-serif;
+	color: grey
+}
+.level3{
+	font-family: sans-serif;
+	color: grey
+}
+.level4{
+	font-family: sans-serif;
+	color: grey
+}
+.tags{
+	color: black !important
+}
+.july3{
+	width: 80px;
+	height: 80px;
+	background-image: url(3july.jpg);
+	position: absolute;
+	top: 170px;
+	left: 140px
+}
+.summer{
+	width: 250px;
+	height: 100px;
+	background-image: url(summer.jpg);
+	background-repeat: none;
+	position: absolute;
+	top: 170px;
+	left: 60px
+}
+.feedback{
+	width: 250px;
+	height: 100px;
+	background-image: url(softuni.jpg);
+	background-repeat: none;
+	position: absolute;
+	top: 170px;
+	left: 60px
+}
+div>a{
+	border: 1px solid white;
+	background-color: blue;
+	width: 40px;
+	height: 40px;
+	float: left;
+	margin-top: 600px;
+	cursor: pointer;
+	color: white;
+	font-size: 20px;
+	text-align: center;
+	text-decoration: none
+}
+a:visited{
+	background-color: orange
+}

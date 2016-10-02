@@ -1,0 +1,93 @@
+body{
+	background-color: #088A29;
+	margin-left: 200px;
+	margin-top: 150px;
+}
+table{
+	border: 1px solid black;
+    border-radius: 20px;
+	border-spacing: 0
+    
+}
+thead{
+	background-color:  #FFC300;
+	font-size: x-large;
+	height: 50px;
+}
+th:first-child{
+	border-top-left-radius: 20px	
+}
+th:last-child{
+	border-top-right-radius: 20px
+}
+#ball{
+	border-bottom-left-radius: 20px
+}
+tbody{
+	font-size: large;
+}
+th,td{
+	border: 1px solid black;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.act{
+	background-color:  #cbdcda;
+	color: red;
+}
+.deact{
+	color: green;
+}
+.rezult{
+	background-color: white;
+	}
+.rezult1{
+	background-color: #cacfd2;
+}
+td:first-child{
+	text-align: right;
+	width: 150px;
+	height: 50px;
+}
+td:nth-child(2){
+	text-align: center;
+
+}
+td:nth-child(4){
+	text-align: center;
+}
+td:nth-child(5){
+	text-align:right;
+}
+div{
+	text-align: center;
+}
+th:first-child{
+	text-align: right;
+}
+th:nth-child(3){
+	text-align: left;!important
+}
+.imgB1{
+	background-image: url("images/red-grey.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 45px;
+}
+.imgB2{
+	background-image: url("images/red.png");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.imgB3{
+	background-image: url("images/green.png");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.imgB4{
+	background-image: url("images/green2.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	border-bottom-right-radius: 20px;
+}
