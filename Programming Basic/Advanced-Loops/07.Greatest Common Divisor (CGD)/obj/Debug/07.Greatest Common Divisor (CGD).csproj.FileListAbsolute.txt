@@ -1,0 +1,6 @@
+c:\users\ivaylo\documents\visual studio 2015\Projects\Advanced-Loops\07.Greatest Common Divisor (CGD)\bin\Debug\07.Greatest Common Divisor (CGD).exe.config
+c:\users\ivaylo\documents\visual studio 2015\Projects\Advanced-Loops\07.Greatest Common Divisor (CGD)\bin\Debug\07.Greatest Common Divisor (CGD).exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\Advanced-Loops\07.Greatest Common Divisor (CGD)\bin\Debug\07.Greatest Common Divisor (CGD).pdb
+c:\users\ivaylo\documents\visual studio 2015\Projects\Advanced-Loops\07.Greatest Common Divisor (CGD)\obj\Debug\07.Greatest Common Divisor (CGD).csprojResolveAssemblyReference.cache
+c:\users\ivaylo\documents\visual studio 2015\Projects\Advanced-Loops\07.Greatest Common Divisor (CGD)\obj\Debug\07.Greatest Common Divisor (CGD).exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\Advanced-Loops\07.Greatest Common Divisor (CGD)\obj\Debug\07.Greatest Common Divisor (CGD).pdb

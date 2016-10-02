@@ -1,0 +1,6 @@
+c:\users\ivaylo\documents\visual studio 2015\Projects\Advanced-Loops\06.Number in Range [1...100]\bin\Debug\_06.Number_in_Range__1._._._100_.exe.config
+c:\users\ivaylo\documents\visual studio 2015\Projects\Advanced-Loops\06.Number in Range [1...100]\bin\Debug\_06.Number_in_Range__1._._._100_.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\Advanced-Loops\06.Number in Range [1...100]\bin\Debug\_06.Number_in_Range__1._._._100_.pdb
+c:\users\ivaylo\documents\visual studio 2015\Projects\Advanced-Loops\06.Number in Range [1...100]\obj\Debug\_06.Number_in_Range__1._._._100_.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\Advanced-Loops\06.Number in Range [1...100]\obj\Debug\_06.Number_in_Range__1._._._100_.pdb
+c:\users\ivaylo\documents\visual studio 2015\Projects\Advanced-Loops\06.Number in Range [1...100]\obj\Debug\06.Number in Range [1...100].csprojResolveAssemblyReference.cache

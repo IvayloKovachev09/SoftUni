@@ -1,0 +1,6 @@
+c:\users\ivaylo\documents\visual studio 2015\Projects\Advanced-Loops\03.Powers of Two\bin\Debug\03.Powers of Two.exe.config
+c:\users\ivaylo\documents\visual studio 2015\Projects\Advanced-Loops\03.Powers of Two\bin\Debug\03.Powers of Two.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\Advanced-Loops\03.Powers of Two\bin\Debug\03.Powers of Two.pdb
+c:\users\ivaylo\documents\visual studio 2015\Projects\Advanced-Loops\03.Powers of Two\obj\Debug\03.Powers of Two.csprojResolveAssemblyReference.cache
+c:\users\ivaylo\documents\visual studio 2015\Projects\Advanced-Loops\03.Powers of Two\obj\Debug\03.Powers of Two.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\Advanced-Loops\03.Powers of Two\obj\Debug\03.Powers of Two.pdb

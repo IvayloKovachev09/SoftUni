@@ -1,0 +1,6 @@
+D:\SoftUni\Programming Basic\Advanced-Loops\13.Number Pyramid\bin\Debug\13.Number Pyramid.exe.config
+D:\SoftUni\Programming Basic\Advanced-Loops\13.Number Pyramid\bin\Debug\13.Number Pyramid.exe
+D:\SoftUni\Programming Basic\Advanced-Loops\13.Number Pyramid\bin\Debug\13.Number Pyramid.pdb
+D:\SoftUni\Programming Basic\Advanced-Loops\13.Number Pyramid\obj\Debug\13.Number Pyramid.csprojResolveAssemblyReference.cache
+D:\SoftUni\Programming Basic\Advanced-Loops\13.Number Pyramid\obj\Debug\13.Number Pyramid.exe
+D:\SoftUni\Programming Basic\Advanced-Loops\13.Number Pyramid\obj\Debug\13.Number Pyramid.pdb

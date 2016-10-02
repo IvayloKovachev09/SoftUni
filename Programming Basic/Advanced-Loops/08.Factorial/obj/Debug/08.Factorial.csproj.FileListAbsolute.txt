@@ -1,0 +1,6 @@
+c:\users\ivaylo\documents\visual studio 2015\Projects\Advanced-Loops\08.Factorial\bin\Debug\08.Factorial.exe.config
+c:\users\ivaylo\documents\visual studio 2015\Projects\Advanced-Loops\08.Factorial\bin\Debug\08.Factorial.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\Advanced-Loops\08.Factorial\bin\Debug\08.Factorial.pdb
+c:\users\ivaylo\documents\visual studio 2015\Projects\Advanced-Loops\08.Factorial\obj\Debug\08.Factorial.csprojResolveAssemblyReference.cache
+c:\users\ivaylo\documents\visual studio 2015\Projects\Advanced-Loops\08.Factorial\obj\Debug\08.Factorial.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\Advanced-Loops\08.Factorial\obj\Debug\08.Factorial.pdb

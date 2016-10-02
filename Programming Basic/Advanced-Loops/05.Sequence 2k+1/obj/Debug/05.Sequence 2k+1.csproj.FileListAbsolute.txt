@@ -1,0 +1,5 @@
+c:\users\ivaylo\documents\visual studio 2015\Projects\Advanced-Loops\05.Sequence 2k+1\bin\Debug\05.Sequence 2k+1.exe.config
+c:\users\ivaylo\documents\visual studio 2015\Projects\Advanced-Loops\05.Sequence 2k+1\bin\Debug\05.Sequence 2k+1.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\Advanced-Loops\05.Sequence 2k+1\bin\Debug\05.Sequence 2k+1.pdb
+c:\users\ivaylo\documents\visual studio 2015\Projects\Advanced-Loops\05.Sequence 2k+1\obj\Debug\05.Sequence 2k+1.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\Advanced-Loops\05.Sequence 2k+1\obj\Debug\05.Sequence 2k+1.pdb

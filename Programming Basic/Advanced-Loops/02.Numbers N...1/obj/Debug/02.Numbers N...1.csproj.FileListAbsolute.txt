@@ -1,0 +1,6 @@
+c:\users\ivaylo\documents\visual studio 2015\Projects\Advanced-Loops\02.Numbers N...1\bin\Debug\_02.Numbers_N._._._1.exe.config
+c:\users\ivaylo\documents\visual studio 2015\Projects\Advanced-Loops\02.Numbers N...1\bin\Debug\_02.Numbers_N._._._1.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\Advanced-Loops\02.Numbers N...1\bin\Debug\_02.Numbers_N._._._1.pdb
+c:\users\ivaylo\documents\visual studio 2015\Projects\Advanced-Loops\02.Numbers N...1\obj\Debug\02.Numbers N...1.csprojResolveAssemblyReference.cache
+c:\users\ivaylo\documents\visual studio 2015\Projects\Advanced-Loops\02.Numbers N...1\obj\Debug\_02.Numbers_N._._._1.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\Advanced-Loops\02.Numbers N...1\obj\Debug\_02.Numbers_N._._._1.pdb

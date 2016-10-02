@@ -1,0 +1,10 @@
+c:\users\ivaylo\documents\visual studio 2015\Projects\Advanced-Loops\test\bin\Debug\test.exe.config
+c:\users\ivaylo\documents\visual studio 2015\Projects\Advanced-Loops\test\bin\Debug\test.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\Advanced-Loops\test\bin\Debug\test.pdb
+c:\users\ivaylo\documents\visual studio 2015\Projects\Advanced-Loops\test\obj\Debug\test.exe
+c:\users\ivaylo\documents\visual studio 2015\Projects\Advanced-Loops\test\obj\Debug\test.pdb
+D:\SoftUni\Programming Basic\Advanced-Loops\test\bin\Debug\test.exe.config
+D:\SoftUni\Programming Basic\Advanced-Loops\test\obj\Debug\test.exe
+D:\SoftUni\Programming Basic\Advanced-Loops\test\obj\Debug\test.pdb
+D:\SoftUni\Programming Basic\Advanced-Loops\test\bin\Debug\test.exe
+D:\SoftUni\Programming Basic\Advanced-Loops\test\bin\Debug\test.pdb
