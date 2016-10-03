@@ -1,0 +1,6 @@
+D:\SoftUniGitHub\Programming Fundamentals\Methods and Debugging- Exercises\08. Center Point\bin\Debug\_08.Center_Point.exe.config
+D:\SoftUniGitHub\Programming Fundamentals\Methods and Debugging- Exercises\08. Center Point\bin\Debug\_08.Center_Point.exe
+D:\SoftUniGitHub\Programming Fundamentals\Methods and Debugging- Exercises\08. Center Point\bin\Debug\_08.Center_Point.pdb
+D:\SoftUniGitHub\Programming Fundamentals\Methods and Debugging- Exercises\08. Center Point\obj\Debug\08. Center Point.csprojResolveAssemblyReference.cache
+D:\SoftUniGitHub\Programming Fundamentals\Methods and Debugging- Exercises\08. Center Point\obj\Debug\_08.Center_Point.exe
+D:\SoftUniGitHub\Programming Fundamentals\Methods and Debugging- Exercises\08. Center Point\obj\Debug\_08.Center_Point.pdb

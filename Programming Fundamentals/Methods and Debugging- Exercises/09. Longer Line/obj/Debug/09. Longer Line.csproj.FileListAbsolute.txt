@@ -1,0 +1,6 @@
+D:\SoftUniGitHub\Programming Fundamentals\Methods and Debugging- Exercises\09. Longer Line\bin\Debug\_09.Longer_Line.exe.config
+D:\SoftUniGitHub\Programming Fundamentals\Methods and Debugging- Exercises\09. Longer Line\obj\Debug\09. Longer Line.csprojResolveAssemblyReference.cache
+D:\SoftUniGitHub\Programming Fundamentals\Methods and Debugging- Exercises\09. Longer Line\bin\Debug\_09.Longer_Line.exe
+D:\SoftUniGitHub\Programming Fundamentals\Methods and Debugging- Exercises\09. Longer Line\bin\Debug\_09.Longer_Line.pdb
+D:\SoftUniGitHub\Programming Fundamentals\Methods and Debugging- Exercises\09. Longer Line\obj\Debug\_09.Longer_Line.exe
+D:\SoftUniGitHub\Programming Fundamentals\Methods and Debugging- Exercises\09. Longer Line\obj\Debug\_09.Longer_Line.pdb

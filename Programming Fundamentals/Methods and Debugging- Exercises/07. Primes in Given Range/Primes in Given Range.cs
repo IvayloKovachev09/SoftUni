@@ -32,7 +32,7 @@ class PrimesInRange
         }
 
         for (int i = start; i <= end; i++)
-        {
+         {
 
             bool isPrime = true;
             for (int j = 2; (j * j) <= i; j++)
